@@ -1,0 +1,759 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to Israel in the wilderness, or, An arraignment of unbelief shewing the evil of distrust ... / by John Chishul.</title>
+            <author>Chishull, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32867</idno>
+            <idno type="STC">Wing C3906</idno>
+            <idno type="STC">ESTC R23704</idno>
+            <idno type="EEBO-CITATION">07880350</idno>
+            <idno type="OCLC">ocm 07880350</idno>
+            <idno type="VID">40252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1202:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to Israel in the wilderness, or, An arraignment of unbelief shewing the evil of distrust ... / by John Chishul.</title>
+                  <author>Chishull, John.</author>
+               </titleStmt>
+               <extent>[11], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Eglesfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews III, 8-10 --  Criticism, interpretation, etc.</term>
+               <term>Faith.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40252:1"/>
+            <pb facs="tcp:40252:1" rendition="simple:additions"/>
+            <p>A WORD TO ISRAEL In the WILDERNES<hi rend="sup">s</hi>. Or the Arraignment of UNBELIEF. Shewing The evil of Diſtrurſt, though in time of the greateſt Streights: Wherein Un<g ref="char:EOLhyphen"/>belief is tried and found guilty of great Provocation. By John Chiſhul, Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>Pſal. 78.19.</bibl> They ſpake againſt God, they ſaid, Can God furniſh a Table in the Wilderneſs?</q>
+            <p>London, Printed for Francis Eglesfield, Book<g ref="char:EOLhyphen"/>ſeller in S. Pauls Church-yard, 1668.</p>
+            <pb facs="tcp:40252:2"/>
+            <pb facs="tcp:40252:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40252:3"/>
+            <pb facs="tcp:40252:3"/>
+            <head>TO THE MOURNERS IN <hi>ZION.</hi>
+            </head>
+            <opener>
+               <salute>Dearly Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am not Inſenſible that there are many who Sympathize with you; and have been ready to pour in Balm into Bleeding Wounds, to comfort you in the midſt of your ſorrows; and bleſſed be the Lord, the God of all Conſolation, who hath ſtirred up any to this Work. But it hath been matter of wonder to me, that amongſt the many Tracts that have been written to the Afflicted, ſo little hath been done to Obviate that ſin, which moſt in that condition fall into, and few lament. It being taken for granted with moſt, that Streights and Troubles, will, if not juſti<g ref="char:EOLhyphen"/>fie,
+<pb facs="tcp:40252:4"/> yet greatly extenuate the evil of Di<g ref="char:EOLhyphen"/>ſtruſt.</p>
+            <p>Having made a ſerious and narrow in<g ref="char:EOLhyphen"/>quiry into the Scripture, I find that this Sin is otherwiſe ſpoken of, then the moſt (yea, and I fear the beſt) think of it.</p>
+            <p>We deem it ſuch a failing, as God will eaſily wink at and paſs over, but after due ſearch, I perceive there is nothing that God ſticks more at then this. We reckon it among the common infirmities of the Saints, but the Lord ſets it in the higheſt ranck of Provocations.</p>
+            <p>Conſidering how prone we are to run in this evil, and how greatly provoking it is, and what dangerous conſequences of it are; I judged a word of Caution, might be as ſeaſonable, as needful, and a few things ſuggeſted, might through Grace, prove an Antidote againſt this Contagi<g ref="char:EOLhyphen"/>on.</p>
+            <p>And until ſome other perſon be awakned to ſpeak more fully to ſo uſeful a Sub<g ref="char:EOLhyphen"/>ject, I hope a plain Propoſal and ſerious Conſideration of what is here offered, may prevent much ſin and ſorrow.</p>
+            <p>I judge it a more noble task to indea<g ref="char:EOLhyphen"/>vour the preventing of trouble that it come not, then to remove it when it hath taken hold of us.</p>
+            <pb facs="tcp:40252:4"/>
+            <p>The onely ſure and ſafe way to keep off ſorrow, is to lay a Bar in the way of ſin.</p>
+            <p>As ſin is the Womb out of which all troubles do proceed, ſo <g ref="char:V">Ʋ</g>nbelief is eſpeci<g ref="char:EOLhyphen"/>ally both Mother and Nurſe, of all the ſorrows of the Godly, not onely as it pro<g ref="char:EOLhyphen"/>cures, but improves them.</p>
+            <p>The ſins of Gods people have been very great in former times, which have pro<g ref="char:EOLhyphen"/>voked the Lord to inflict many ſore evils upon us: But if to all our other ſins, we ſhould add a ſin of our afflicted condition more provoking, than all thoſe of former times; what can we expect, but that God ſhould ſwear that we ſhould not enter into his reſt, and that the Lord ſhould bury (at leaſt) all this Generation in the Wilder<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>I know many are the fears, if not the ſettled thoughts of ſome wiſe and good men, that this preſent Generation will not ſee the good which hath been earneſtly pray'd for, and is affectionately expected.</p>
+            <p>I do not pretend to know the reaſons that many have for this conjecture, but I think I may without preſumption conclude, that if the Lord cauſe us to fall in our wilder<g ref="char:EOLhyphen"/>neſs, as he aid that Generation wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch come out of <hi>Egypt,</hi> it is becauſe we have been too like them in that which was their Provocation,</p>
+            <pb facs="tcp:40252:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:40252:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:40252:6"/>
+            <p>I muſt confeſs, I am not ſatisfied how this kind of <g ref="char:V">Ʋ</g>nbelief (which denies or ſtrongly diſputes againſt the Providence of God over his people, in time of distreſs) came to be ſo favourably thought of, as to be reckoned amongſt the infirmities and weakneſs of Saints; ſince it was of old counted, <hi>The Provocation.</hi> I cannot ap<g ref="char:EOLhyphen"/>prehend that the acceſſion of more Light, and the addition of new Experience can leſſen that which was ſo great before.</p>
+            <p>Let thoſe who will not t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke pains to read this little Tract purpoſely written, to diſ<g ref="char:EOLhyphen"/>cover the provoking nature of unbelief; yet be intreated to behold it as in a Glaſs, in the Hiſtory of the Children of <hi>Iſrael,</hi> whom the Lord ſlew in the Wilderneſs for this ſin; can you think for a ſmall thing, for which God cut off above ſix hundred thouſand men?</p>
+            <p>But eſpecially conſider and wonder at the Lords proceedings againſt <hi>Moſes,</hi> and that but for one offence of this kind. He was not admitted to go into <hi>Canaan,</hi> though he did affectionately deſire it, and pleaded earneſtly with God.</p>
+            <p>Num. <hi>20.12. And the Lord ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke unto</hi> Moſes, <hi>Becauſe you believed me not to ſanctifie me in the Eyes of the Chil<g ref="char:EOLhyphen"/>dren of</hi> Iſrael, <hi>ye ſhall not bring this
+<pb facs="tcp:40252:6"/> Congregation into the Land which I have given them.</hi>
+            </p>
+            <p>Though <hi>Moſes</hi> is taxt but this once of unbelief, and doubtleſs his unbelief did not ſhew it ſelf as theirs did in murmur<g ref="char:EOLhyphen"/>ing; all that ſeems in the Story to be charged upon him was his not expreſſing his faith and confidence in God, and in<g ref="char:EOLhyphen"/>deavouring to vindicate his Providence, and ſtay the murmurings of the people. His omitting to ſanctifie God before the people, and to profeſs his dependence upon him, is here condemned as a not believing him. And for this kind of unbelief once charged upon him, Is there ſuch a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> r laid in his way to <hi>Canaan,</hi> that all his Intereſt could not remove? He that could obtain any thing of God in other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſes, could pre<g ref="char:EOLhyphen"/>vail for a whole Nation at once, <hi>Exod. 33.</hi> could not be heard ſpeak for himſelf in this caſe, <hi>Deut. 3.26. The Lord was wroth with me for your ſakes, and would not hear me; and the Lord ſaid unto m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, let it ſuffice thee, ſpeak no more unto me of this matter.</hi>
+            </p>
+            <p>And can we hope that we ſhall fare better than theſe? Surely no. Our un<g ref="char:EOLhyphen"/>belief cannot but be much more provo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, in as much as it is much more in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcuſable.</p>
+            <pb facs="tcp:40252:7"/>
+            <p>It is indeed a day of many fears, and they are not groundleſs, if we conſider the ſubtile and unwearied attempts of Ene<g ref="char:EOLhyphen"/>mies, or the incorrigibleneſs of this Na<g ref="char:EOLhyphen"/>tion, under unuſual judgments. But though we may fear ſore evils both from God and men, yet let us baniſh ſinful fears, and remove far from us all diſtruſtful thoughts of Gods Providential care over his people, in all the evils that may come upon them.</p>
+            <p>Let us never fear that God will leave his Children in the Wilderneſs, into which he hath led them, and out of which they might find a way if they could leave him; But rather conclude that God h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h brought us under a ſentence of Death, th t we might not truſt in our ſelves, but in him that raiſed Jeſus Chriſt from the dead.</p>
+            <p>He that raiſed him will raiſe his Wit<g ref="char:EOLhyphen"/>neſſes, whoſe dead bodies have layn in the open Street<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and if the Spirit of the Lord enter into them, and they ſtand upon their feet, Deliverance will haſten.</p>
+            <p>If any thing ſuggeſted prove an Anti<g ref="char:EOLhyphen"/>dote againſt unbelieving fear, and do any way contribute to the begetting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f a Sp rit of Courage and Fai h, to keep cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to God, to depend upon him, and wait for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:40252:7"/> in all the ſtreights that we may be brought into, I ſhall rejoyce as having attained my end.</p>
+            <p>We do not know what days we may yet be caſt upon, or what troubles may abide the people of God, if we meet with none but what have been in former Ages, we have reaſon to believe from Experience, but if we ſhould fall under ſuch tryals as never any Age of the Church did pro<g ref="char:EOLhyphen"/>duce, yet we have reaſon to believe from the promiſe, ſo that Diſtruſt would then have no excuſe.</p>
+            <p>The Apostles way of Reaſoning is ob<g ref="char:EOLhyphen"/>ſervable, and oh that we could learn of him in this particular, <hi>2 Cor. 1.10. Who delivered us from ſo great a death, and doth deliver.</hi> We are able to go thus far with him, who ſees not that God hath done great things for his people, and for this Nation, to deliver it from Popiſh deſigns, and Plots againſt it; the Lord hath diſappointed Enemies of all ſorts, and we muſt acknowledg that <hi>he doth ſtill deliver.</hi> Our fears (through mercy) are not come upon us, nay, our Peace and Liberties are continued beyond our expecta<g ref="char:EOLhyphen"/>tions; Let us learn to go a little farther with the ſame Apostle, and ſay as he did, <hi>In whom we truſt, he will yet deliver us.</hi>
+            </p>
+            <pb facs="tcp:40252:8"/>
+            <p>If our Fears do but awaken our Faith, and we can ſay with <hi>David, Pſal. 56.3. What time I am afraid, I will truſt in thee.</hi> Having learnt to depend upon God in dif<g ref="char:EOLhyphen"/>ficulties, we ſhall in a little time be able to rejoyce in Tribulation; and ſay as he did, <hi>ver. 4. In God I will praiſe his word, in God have I put my truſt,</hi> (and remar<g ref="char:EOLhyphen"/>kable is what follows) <hi>I will not fear what Fleſh can do un o me.</hi>
+            </p>
+            <p>Fear calls in Faith to ſuccour him, and Faith ſoon caſts out thoſe fears which did affl ct him. Oh that we could imitate him, and in the day of our fears, call in our Faith, and our ancient Experiences, and incourage our ſelves in the Lord our God, and wait quietly for his Salvation.</p>
+            <p>How ſweet ſuch a frame of Spirit would be to our ſelves, how much it would con<g ref="char:EOLhyphen"/>tribute to the making the Name of God glorious; what convictions it will leave upon the Spirits of men concerning the Power of Godlineſs, a little Time and your Experience will evince.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40252:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. 3.8, 9, 10.</hi>
+                  </bibl>
+                  <p>Harden not your hearts, as in the Pro<g ref="char:EOLhyphen"/>vocation, in the day of Temptation, in the VVilderneſs, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Hould I take notice of the Context, I could not paſs by many things which would preſent themſelves to our conſideration, nor avoid ſuch an expence of time, as would pre<g ref="char:EOLhyphen"/>vent what at preſent I intend. Let it ſuffice to know, that the people to whom the Author directs this Epi<g ref="char:EOLhyphen"/>ſtle, were a profeſſing and afflicted people. The great deſign that he drives at, is to eſtabliſh them in the Faith, and to comfort them in their Sufferings: Inſiſting upon the form<g ref="char:EOLhyphen"/>er, he lays the great Example of <hi>Iſrael</hi>
+               <pb n="2" facs="tcp:40252:9"/> before them, for their Caution: in which is conſiderable,</p>
+            <p>
+               <hi>Firſt,</hi> The perſons propounded, <hi>Iſrael</hi> your Fathers.</p>
+            <p>
+               <hi>Secondly,</hi> The Stage upon which they are preſented, <hi>in the wilder<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Gods Diſpenſations to them-ward, <hi>they ſaw his works.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Their carriage under and after all this, <hi>They tempted and pro<g ref="char:EOLhyphen"/>ved me.</hi> They would not believe upon all the proofs and experiences that they had, but would ſtill be put<g ref="char:EOLhyphen"/>ting God upon new proofs.</p>
+            <p>
+               <hi>Fifthly,</hi> Gods reſentment of this, He was provoked, and grieved; He was angry, becauſe of ſuch unworthy carriage; and he was grieved becauſe it was from a people ſo near him, and ſo much beloved.</p>
+            <p>
+               <hi>Sixthly,</hi> We have the aggravation of their ſin, and the reaſon of this Provocation; it was for a long time, and after large experience of Gods wayes.</p>
+            <pb n="3" facs="tcp:40252:9"/>
+            <p>
+               <hi>Seventhly,</hi> We have a Comment upon this by the Holy Ghoſt, diſco<g ref="char:EOLhyphen"/>vering the riſe of the Sin; it is char<g ref="char:EOLhyphen"/>ged partly upon their vvills, and part<g ref="char:EOLhyphen"/>ly upon their Underſtandings; Per<g ref="char:EOLhyphen"/>verſneſs in the one, and Darkneſs in the other. <hi>They erre in their hearts, and they have not known my wayes.</hi>
+            </p>
+            <p>That I may make a plain way to the Doctrine I purpoſe to inſiſt up<g ref="char:EOLhyphen"/>on, take a brief Explication of ſome terms in the Text. I will touch no more, than I muſt of neceſſity; and theſe no further then to make way to the Doctrine: The reſt of the particu<g ref="char:EOLhyphen"/>lars will fall in, in the handling of this.</p>
+            <p>It is needful to know, what every word imports in this Clauſe. <hi>In the Provocation, in the day of Temptation in the VVilderneſs.</hi>
+            </p>
+            <p>Theſe all relate one to the other: If you ask what the Provocation was, he tells you it was the Temptation: If you demand, how this muſt be un<g ref="char:EOLhyphen"/>derſtood, and where fixed; he tells in the Wilderneſs.</p>
+            <pb n="4" facs="tcp:40252:10"/>
+            <p>But you will next inquire, VVhat particular Time and Action this points at, in the Wilderneſs?</p>
+            <p>Some would have it to intend the whole Forty years, in which they did often provoke the Lord.</p>
+            <p>But others judg, that the Holy Ghoſt points at ſome ſpecial Provoca<g ref="char:EOLhyphen"/>tions in their paſſage through the Wil<g ref="char:EOLhyphen"/>derneſs, and they fix them principal<g ref="char:EOLhyphen"/>ly upon <hi>Exod.</hi> 17.7. <hi>They tempted the Lord, ſaying, Is the Lord among us, or not?</hi> And upon <hi>Numb.</hi> 14.11. <hi>How long will this people provoke me? how long will it be ere they believe me?</hi>
+            </p>
+            <p>The ſureſt and ſafeſt way is to fol<g ref="char:EOLhyphen"/>low the Scripture it ſelf, in expound<g ref="char:EOLhyphen"/>ing theſe Terms: We ſhall find that <hi>David,</hi> from whoſe 95. Pſalm, theſe words are taken, does himſelf explain them, <hi>Pſal.</hi> 78. <hi>verſ.</hi> 17, 18, 19, 20.40, 41.</p>
+            <p>In which he plainly tells us, How the <hi>Iſraelites</hi> tempted, provo<g ref="char:EOLhyphen"/>ked, and grieved the Lord in the Wilderneſs. Their ſin, he ſays, was
+<pb n="5" facs="tcp:40252:10"/> unbelief, and what kind of unbelief alſo he informs us, <hi>viz.</hi> a Diſtruſt of his Providential care of them, and Fatherly proviſion for them in that Wilderneſs, and of his Power and Truth; whether he could or would lead them thorow it to the good Land he had promiſed them. They ſaid <hi>verſ.</hi> 19. <hi>Can God provide a Ta<g ref="char:EOLhyphen"/>ble in the Wilderneſs? Thus,</hi> ſays the Holy Ghoſt, they ſpeak againſt God. You cannot ſpeak worſe of God, nor more to his provocation, than, when things run low with his peo<g ref="char:EOLhyphen"/>ple, to queſtion, whether he can, or will provide for them.</p>
+            <p>God obſerves this of thoſe Hypo<g ref="char:EOLhyphen"/>crites, in <hi>Mal.</hi> 1.33, 14. <hi>Your words have been ſtout againſt me, ſaith the Lord.</hi>
+            </p>
+            <p>He inſiſteth again upon this, <hi>v.</hi> 20. <hi>Can he give Bread alſo? Can he give Fleſh to his people?</hi> But how does the Lord reſent this? <hi>When he heard this he was wrath, ver.</hi> 21. This was an evil not to be born withal any
+<pb n="6" facs="tcp:40252:11"/> longer; and as men that are offended will over with the matter of offence once and again, ſo does the Holy Ghoſt repeat their ſin again and again, <hi>ver.</hi> 22. Becauſe they believed not God, and truſted not in his Salvation, and <hi>ver.</hi> 40, and 41. How often did they provoke him in the Wilderneſs, and grieve him in the Deſart; yea, they turned back and tempted God, and limited the holy One of <hi>Iſrael.</hi> In all which we ſee plainly, that this great Provocation was Unbelief, and a diſtruſtful bounding of Gods Power and Goodneſs; and this is ſuch a ſin, that God will not paſs it by in his peo<g ref="char:EOLhyphen"/>ple, without ſpecial notice taken of it, and expreſſing juſt indignation a<g ref="char:EOLhyphen"/>gainſt it. So that we have a very plain and eaſie path to this Truth;</p>
+            <p>Doct. <hi>God is highly provoked, when his people diſtruſt his Providence, though they be in a VVilderneſs.</hi>
+            </p>
+            <p>For the proof of this, I need not ſay much, the referring you to what God ſaid and did upon <hi>Iſraels</hi> diſtruſt
+<pb n="7" facs="tcp:40252:11"/> is enough to confirm it (thoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had as much ground and colour of reaſon for what they ſaid and did, as it is poſſible for any after them to have). I have given you already an account of what God ſaid upon this, and you ſee, his language is like that of one greatly incenſed; and if that be not proof ſufficient, ſee what he did, he ſlew all that Generation in the Wilderneſs; nay, he would not let <hi>Moſes</hi> and <hi>Aaron,</hi> go into <hi>Canaan</hi> becauſe they had not been careful to ſanctifie his Name before them, in bearing witneſs againſt this their Di<g ref="char:EOLhyphen"/>ſtruſt of God at the firſt appearance of it.</p>
+            <p>To make this Doctrine look more towards us, let us conſider; that it refers not ſo much to a Place, as to a Condition. Whereſoever a people are, if their Condition reſemble <hi>Iſ<g ref="char:EOLhyphen"/>raels</hi> in their paſſage from <hi>Egypt,</hi> they may be ſaid to be in a Wilderneſs.</p>
+            <p>God ſets out the afflictions and troubles of his people in the latter
+<pb n="8" facs="tcp:40252:12"/> dayes, by this Alluſion, <hi>Hoſ.</hi> 2.14. I <hi>will bring her into the Wilderneſs;</hi> which imploys two things, Firſt, A condition which ſhall be very barren of all ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ward Comf<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s: This is noted, <hi>Hoſ.</hi> 2.12, 13. I <hi>will deſtroy her Vinyards and Figtrees, and make them a Foreſt,</hi> &amp;c. God would make her Land like a Wilderneſs, a Land that was not ſown, <hi>Jer.</hi> 2.2.</p>
+            <p>
+               <hi>Secondly,</hi> It was a place, thorow which was no beaten path. So that, as there was no comfortable Being in it, ſo there was no ready way out of it, <hi>Pſal.</hi> 107.40. <hi>He cauſeth them to wander in the Wilderneſs, where there was no way.</hi>
+            </p>
+            <p>He bringeth even Princes and the great ones of the Earth into ſuch ſtreights, that they are at a loſs, and can find no way out. The meaning of this Doctrine is this, That if God ſhould bring his people into ſuch a condition through trouble and af<g ref="char:EOLhyphen"/>fliction, that they ſhould ſee no way of Supply in it, nor any probable
+<pb n="9" facs="tcp:40252:12"/> way out of it, yet it is a Provocati<g ref="char:EOLhyphen"/>on for them to diſtruſt God. No ſtreights can excuſe, much leſs juſtifie the diſtruſt of Gods people. What ever plea Unbelief may ſeem to have, it will be found a great Provocation. And the Reaſons of this are evi<g ref="char:EOLhyphen"/>dent.</p>
+            <p>
+               <hi>Reaſon the firſt.</hi> Diſtruſt of God, though in ſtreights, is a denying him to be God; it is a bringing of him and all his Actions, to the proportion and ſtandard of the Creature. It is in effect to ſay, he is like one of us. And, as God could not bear this language, when it impeacht his Ho<g ref="char:EOLhyphen"/>lineſs, (Pſal. 50.21. <hi>Thou thoughteſt</hi> I <hi>was ſuch a one as thy ſelf</hi>)<g ref="char:punc">▪</g> So he will not digeſt it, when it denies his Almightineſs. When we limit the Holy One, and ſhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him up in the bounds of former Experiences, or preſent Probabilities; we do plainly deny him to be God. If we will own him to be God, we muſt expect from him things ſutable to his Al<g ref="char:EOLhyphen"/>mighty
+<pb n="10" facs="tcp:40252:13"/> Power and Goodneſs, I mean where we have the Concurrence of his promiſe. We ſhould ſay to any Difficulty that lies in the way of any promiſed mercy, as <hi>Zechariah</hi> ſays, <hi>Zech.</hi> 4.7. <hi>What art thou, O great Mountain?</hi> When carnal Reaſon would come in, and proportion our hopes and expectations to the proba<g ref="char:EOLhyphen"/>bilities on the one ſide, or difficulties on the other, we ſhould anſwer it with thoſe words of the Lord, <hi>Iſa.</hi> 55.9. <hi>As the Heavens are higher than the Earth, ſo are my wayes</hi> (ſaith God) <hi>higher than yours.</hi> Indeed, were not his wayes above ours, wherein would he appear to be God? If we could expect nothing from him, but upon the terms we expect them from o<g ref="char:EOLhyphen"/>thers, how ſhould we keep an awe, and dread of him in our hearts. Re<g ref="char:EOLhyphen"/>member this, Unbelief hath a mix<g ref="char:EOLhyphen"/>ture of Atheiſm in it, and muſt needs provoke.</p>
+            <p>
+               <hi>Reaſon the ſecond.</hi> It is a ſecret queſtioning, ſometimes an open Re<g ref="char:EOLhyphen"/>proaching
+<pb n="11" facs="tcp:40252:13"/> the Attributes of God. It ſets up Carnal Reaſon, and Mans wiſdom in the Judgment Seat, and brings all the Attributes of the Bleſſed God to the Bar, where they are cen<g ref="char:EOLhyphen"/>ſured and ſentenced at the pleaſure of theſe<g ref="char:punc">▪</g> blind and bold Inquiſitors. Sometimes they fall fowl with his Po<g ref="char:EOLhyphen"/>wer, <hi>Pſal.</hi> 78.19, 20. <hi>Can God fur<g ref="char:EOLhyphen"/>niſh a Table in the Wilderneſs?</hi> At an<g ref="char:EOLhyphen"/>other time they reproach his Wiſ<g ref="char:EOLhyphen"/>dom, as if he knew not How to ſave; either to prevent miſery, or bring deliverance, <hi>Pſal.</hi> 73.11. <hi>How doth God know? is there Knowledg in the moſt High?</hi> And his Truth and Faithfulneſs ſeldom eſcapes them: <hi>David</hi> himſelf ſtumbled upon theſe, 1 <hi>Sam.</hi> 27.1. <hi>And</hi> David <hi>ſaid in his heart,</hi> I <hi>ſhall now periſh one day, by the hand of</hi> Saul.</p>
+            <p>And this Diſtruſt is commonly ac<g ref="char:EOLhyphen"/>companied either with a denyal of former Experiences of Gods provi<g ref="char:EOLhyphen"/>dential Actings, or elſe with a loading <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem with falſe and unworthy Im<g ref="char:EOLhyphen"/>putations.
+<pb n="12" facs="tcp:40252:14"/> Either we ſay that all the good which God hath done his peo<g ref="char:EOLhyphen"/>ple was by chance, the Finger of God was not in it; and ſo that Grave which buries our preſent hopes and expecta<g ref="char:EOLhyphen"/>tions, ſwallows up all our paſt experi<g ref="char:EOLhyphen"/>ences, and we become in a moment as if we had never known any thing of Gods Providence: Or, if we come not to a denyal of the Provi<g ref="char:EOLhyphen"/>dence it ſelf, we arrive at ſomething worſe, to put the baſeſt Conſtructi<g ref="char:EOLhyphen"/>ons upon the beſt Diſpenſations; as <hi>Iſrael</hi> in their Provocation did: who ſaid of that glorious Deliverance out of <hi>Egypt,</hi> that they were brought in<g ref="char:EOLhyphen"/>to the Wilderneſs to be ſlain there, <hi>Exod.</hi> 14.11, 12. and <hi>Exod.</hi> 17.3. Now ſuch Reflections as theſe which are frequently the attendants upon di<g ref="char:EOLhyphen"/>ſtruſt, muſt needs be greatly provo<g ref="char:EOLhyphen"/>king.</p>
+            <p>
+               <hi>Reaſon the third.</hi> It caſts a viſible Diſhonour upon God before men. Diſtruſt and Diffidence are ſeldome carried ſo ſecretly, but they find ſome
+<pb n="13" facs="tcp:40252:14"/> vent, and are often in their work<g ref="char:EOLhyphen"/>ings expoſed to the obſervation of others, yea, and they the enemies of God and Religion; and before theſe God is diſhonoured two wayes.</p>
+            <p>
+               <hi>Firſt,</hi> The very name of God ſuf<g ref="char:EOLhyphen"/>fers. For when his enemies ſee thoſe who have followed God, and profeſſed to know him to fall in their hopes, and to ſink in their ſpirits, they believe God himſelf is fallen in theſe men affections and eſteem; they begin to think that there is no profit in ſerving God, and that theſe men do now repent their choice. But when men can walk chearfully, and keep up their hopes and comforts at a high rate in times of trouble and af<g ref="char:EOLhyphen"/>fliction, it glorifies God before men, and teſtifies to all that God is worthy to be choſen and loved for himſelf, and that it is good drawing nigh to him. When men ſee us walking as the Prophet did, <hi>Hab.</hi> 3.17, 18, 19. re<g ref="char:EOLhyphen"/>joycing in God when all outward comforts fall; it leaves them con<g ref="char:EOLhyphen"/>vinc'd
+<pb n="14" facs="tcp:40252:15"/> that there is an excellency in God, which they are not acquainted withal. Nay, when we can, not on<g ref="char:EOLhyphen"/>ly comfort our ſelves in God, and content ourſelves with him in a Wil<g ref="char:EOLhyphen"/>derneſs, but go into a Wilderneſs for him as <hi>Moſes</hi> did, this tells all the world that God is worth injoying: But when we are ſad and dejected be<g ref="char:EOLhyphen"/>cauſe we are brought into ſome ſtreights, it makes men conclude that there is little comfort in walking with God, and that God alone is not enough for a man to live upon.</p>
+            <p>
+               <hi>Secondly,</hi> God is diſhonoured by this diſtruſt through that reproach which is caſt upon Religion, and the power of Godlineſs.</p>
+            <p>VVhen men can bear up no fur<g ref="char:EOLhyphen"/>ther than the power and ſtrength of Reaſon will carry them, and thoſe who profeſs Godlineſs walk by com<g ref="char:EOLhyphen"/>mon rules and carnal Principles, their obſervers ſay; Either theſe men are not Godly, or Godlineſs is no ſuch thing as they would make it. By
+<pb n="15" facs="tcp:40252:15"/> your profeſſion of Godlineſs, your enemies are brought to an expectati<g ref="char:EOLhyphen"/>on of ſome ſingular thing from you, ſomething to which their Principles will not reach, or elſe they will not be convinc'd that there is any great matter in Godlineſs; they expect that it ſhould carry you on in difficulties when they ſhould pauſe, if not re<g ref="char:EOLhyphen"/>treat, and that it ſhould bear you up where they ſhould ſink: And if you can do this, and the frame of your ſpirits be ſingular as your actions, you may regain ſome of that honour that Religion has loſt; and you will make it manifeſt, that the ſame ſpirit is in you which was in the Apoſtles and Primitive Chriſtians. It was eaſie for an ordinary eye to ſee an extraordina<g ref="char:EOLhyphen"/>ry ſpirit in them, <hi>Acts</hi> 5.41. 2 <hi>Cor.</hi> 6.10. <hi>Col.</hi> 1.11. But if in times of tryal you ſink into a lowneſs of ſpirit, and walk by beggarly Principles, who have talked of and profeſſed higher, men will conclude this was all but talk, and that Godlineſs hath nothing
+<pb n="12" facs="tcp:40252:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:40252:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:40252:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:40252:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:40252:18"/> in it but Pretenſions, and Poſitions ſuited and accommodated to the Inte<g ref="char:EOLhyphen"/>reſts of thoſe that profeſs it, and that it hath no inward principles fitted to the Doctrines and Aſſertions of its Profeſſours. Now what a Provocati<g ref="char:EOLhyphen"/>on muſt this be, to help ſuch a baſe Opinion as this into the world, or to confirm and ſtrengthen it, where it hath taken ſome hold in the minds of vain men.</p>
+            <p>
+               <hi>Reaſon the fourth.</hi> It ſpeaks plain<g ref="char:EOLhyphen"/>ly the heart to be naught, and is a Demonſtration of the unſoundneſs and inſincerity of it, under all former profeſſions. It tells us, that all that was done before, was but in Hypocri<g ref="char:EOLhyphen"/>ſie: And what is more abominable than this? VVe find nothing ſo much inſiſted on by the Holy Ghoſt in aggra<g ref="char:EOLhyphen"/>vating the m ſcarr ages of <hi>Iſrael,</hi> as their diſtru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of God, <hi>Pſal,</hi> 78.32. <hi>For all this they ſinned ſtill,</hi> (and he adds, as if they had no other ſin) <hi>and believed not for his wondrous works.</hi> Hence he argues their Hy<g ref="char:EOLhyphen"/>pocriſie,
+<pb n="17" facs="tcp:40252:18"/> 
+               <hi>ver.</hi> 35, 36, 37. As if he had ſaid, Sometimes they would be brought to ſome acknowledgment of Gods Goodneſs to them, and Care for them, yet this was but lip-labour; and he infers from hence, that their hearts were not right with him, nor were they ſtedfaſt in his Covenant.</p>
+            <p>There is noth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng more certain than this, that thoſe who do but<g ref="char:punc">▪</g> feignedly cloſe with God in times of proſperity, will ſtart in times of try<g ref="char:EOLhyphen"/>al; and ſuch falterings then are preg<g ref="char:EOLhyphen"/>nant teſtimonies of their flattering with God before.</p>
+            <p>Departing from God in affliction, gives the lie to former Profeſſion, and tells us that ſuch a one never took God for his chief good, for then he would be content with him alone: Such a one never yet entered into Covenant with God as Almighty, and All-ſufficient; never lookt upon God as <hi>Abraham</hi> did, as his Shield, and his exceeding great Reward, <hi>Gen,</hi> 17.1.</p>
+            <pb n="18" facs="tcp:40252:19"/>
+            <p>No, he took God to be a Servant to ſome Intereſt, which he thinks will beſt ſtand now without him; and finding no further uſe of his Profeſſi<g ref="char:EOLhyphen"/>on, he would fain find ſome plauſi<g ref="char:EOLhyphen"/>ble reaſon for the diſmiſſing of it. Therefore he aggravates every Diffi<g ref="char:EOLhyphen"/>culty and Hazard, and makes them unanſwerable Objections, as if God had led him into manifeſt Inconve<g ref="char:EOLhyphen"/>niences, and had made no Proviſion againſt them. Thus it was with <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> they would take every occaſion of quarrelling with <hi>Moſes</hi> from pretend<g ref="char:EOLhyphen"/>ed Difficulties, and Inconveniencies which did ariſe, and they deemed theſe to be Inſupportable and Incura<g ref="char:EOLhyphen"/>ble. But what was in the Bottom of all this? They hankred after the Gar<g ref="char:EOLhyphen"/>lick and Onions of <hi>Egypt,</hi> they would fain go back to theſe. It is very hard to keep a man ſteddy in his Profeſſion under ſtreights, whoſe heart is not right with God.</p>
+            <p>Therefore the Apoſtle cautions us, to take heed of the unbelief of the
+<pb n="19" facs="tcp:40252:19"/> heart, <hi>Heb.</hi> 3.12. <hi>Take heed lest there be in any of you an evil heart of unbe<g ref="char:EOLunhyphen"/>lief, in departing from the living God.</hi> If the heart be not right for God, it will ſurely cauſe a man to dep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt from him at one time or other. The Ho<g ref="char:EOLhyphen"/>ly Ghoſt notes this in the Text, as the ground of all their Diſtruſt: <hi>They are a people that do erre in their hearts.</hi> Their hearts are not right with me, therefore they Diſtruſt me.</p>
+            <p>
+               <hi>Reaſon the fifth.</hi> It ſpeaks us groſ<g ref="char:EOLhyphen"/>ly ignorant of the wayes of God; which muſt needs Provoke, after fre<g ref="char:EOLhyphen"/>quent Opportunities and Advantages given us, of acquainting our ſelves with them. This was the Aggravation of <hi>Iſraels</hi> ſin in this place, that they who had ſeen ſo many of Gods won<g ref="char:EOLhyphen"/>derful works, and had been ſo diſci<g ref="char:EOLhyphen"/>plined in <hi>Egypt,</hi> and in the Wilder<g ref="char:EOLhyphen"/>neſs, ſhould yet be ignorant of the Wayes of God. What ſhould be expected at laſt, but that God ſhould lay them by as a company of unteach<g ref="char:EOLhyphen"/>able Dunces? God is not only pro<g ref="char:EOLhyphen"/>voked
+<pb n="20" facs="tcp:40252:20"/> but grieved at this, that he ſhould be ſo long teaching them, and they learn ſo little.</p>
+            <p>
+               <hi>Obj.</hi> But you will ſay, Is it poſſible that <hi>Iſrael</hi> could be ignorant of the ways of God, who had ſeen all his won<g ref="char:EOLhyphen"/>ders in <hi>Egypt,</hi> and at the Red-Sea, and afterwards in the VVilderneſs?</p>
+            <p>
+               <hi>Anſw. Iſrael</hi> was not ſimply ig<g ref="char:EOLhyphen"/>norant of theſe things, but they were not mindful of them, at leaſt; at ſuch times when they ſhould have im<g ref="char:EOLhyphen"/>proved them for their Faith, and Hope <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n God; they carried them<g ref="char:EOLhyphen"/>ſelves unworthily after ſuch experi<g ref="char:EOLhyphen"/>encies, even as if they had never ſeen or heard of any ſuch thing. VVhen they met with any new d fficulty, they behaved themſelves as if that were the firſt, and they had never been carried thorow any before.</p>
+            <p>We ſhall find <hi>Iſrael</hi> acting and rea<g ref="char:EOLhyphen"/>ſoning at ſometimes, as if God had never done any thing extraordinary for their deliverance; as if they had never ſeen ſo much as a little Finger
+<pb n="21" facs="tcp:40252:20"/> of Providence put forth for them; as if they had been preſerved from the rage of the <hi>Egyptians,</hi> and from the ruine and miſery to which they were often appointed, onely by ſome Acci<g ref="char:EOLhyphen"/>dents, or Chances, and God had ſtood Newter all the while, <hi>Pſal.</hi> 106.21, 22. <hi>They forgat God their Savi<g ref="char:EOLhyphen"/>our, who had done great things in</hi> E<g ref="char:EOLhyphen"/>gypt, <hi>wondrous things in the Land of</hi> Ham <hi>and terrible things at the Red-Sea.</hi>
+            </p>
+            <p>They were as Diſtruſtful and Unbe<g ref="char:EOLhyphen"/>lieving, as if God had never appear<g ref="char:EOLhyphen"/>ed in bringing them out of <hi>Egypt,</hi> and they had ſeen nothing worth their Obſervation in that Wilderneſs, but the Diſcouragements which lay be<g ref="char:EOLhyphen"/>fore them.</p>
+            <p>Now do you think that God can bear this, that thoſe who had ſeen ſo much of the ſtretched-out Hand of God, and contributed to the making his Name fearful with praiſes (as they had done, <hi>Exod.</hi> 15.11.) ſhould after all this, walk and act as if theſe
+<pb n="22" facs="tcp:40252:21"/> things had been only ſome Dream or Fancy? No, God will not bear it, <hi>Pſal.</hi> 106.23. <hi>Therefore he ſaid, he would deſtroy them, had not</hi> Moſes <hi>his choſen ſtood before him in the breach; to turn away his wrath, leſt he ſhould deſtroy them.</hi> Now as Unbelief is accompanied with an Unmindfulneſs of what he has done, ſo alſo with a great and palpable Ignorance of what God is doing. There are certain wayes of Providence, in which God walks towards his people, which men that are not skild in, are diſcouraged from, and fill'd with fears, but thoſe who underſtand them are not trou<g ref="char:EOLhyphen"/>bled at. And indeed, the moſt of the troubles and fears of Gods own people do ariſe, from the too little acquaintance that they have with Gods wayes. The laying a few of theſe before you, may be a great cure to unbelief, and prevent a great deal of ſinful fear which <hi>Iſrael</hi> run into, becauſe they had not known his wayes.</p>
+            <pb n="23" facs="tcp:40252:21"/>
+            <p>The Wayes of God here intend<g ref="char:EOLhyphen"/>ed, may be ſuch as theſe:</p>
+            <p>
+               <hi>Firſt,</hi> It is Gods way, to ſuffer great Enemies and Oppoſitions to ariſe againſt that work and people, which he intends ſignally to own. It hath been thus in every Age, and is like to be ſo to the end.</p>
+            <p>When God choſe <hi>Iſrael</hi> from a<g ref="char:EOLhyphen"/>mong all the Kindreds of the Earth to be his<g ref="char:punc">▪</g> and intended to bleſs them above all others, and put his Name upon them; What Enemies did ap<g ref="char:EOLhyphen"/>pear againſt that people? In <hi>Egypt,</hi> how was <hi>Pharaoh</hi> ſet upon their ruine! then in the Wilderneſs <hi>Amaleck</hi> in<g ref="char:EOLhyphen"/>deavours to cut them off; and in <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> they had all the Nations round about them, <hi>Pſal.</hi> 83.6, 7, 8. <hi>The Tabernacles of</hi> Edom, <hi>and the</hi> Iſhma<g ref="char:EOLhyphen"/>lites, <hi>of</hi> Moab, <hi>and the</hi> Hagarens; Gebal, <hi>and</hi> Ammon, <hi>and</hi> Amalek, <hi>the</hi> Philiſtines, <hi>with the Inhabitants of</hi> Tyre.</p>
+            <p>I might multiply Inſtances in every Age, of the Potent and Formidable
+<pb n="24" facs="tcp:40252:22"/> Adverſaries of the people of God. In the firſt planting of the Goſpel, what oppoſition did appear againſt a Company of poor Fiſhermen, when they began to Preach Chriſt crucified and riſen from the dead. Some by Authority indeavoured to ſilence them, ſome by Subtilty to inſnare them, others Combined to deſtroy them; that it is a wonder that the Rage of the Enemy hath not pre<g ref="char:EOLhyphen"/>vailed all along to root up all the godly.</p>
+            <p>And as great Enemies have riſen up againſt Gods people: So alſo, a<g ref="char:EOLhyphen"/>gainſt the work which God hath ſet a Foot in the world. <hi>Pharaoh</hi> did not onely hate the <hi>Iſraelites,</hi> but the work which God was doing among them. He would have bin rid of them, but he would not let them go to ſerve the Lord. When God had them in the Wilderneſs, and was about to ſet up his Worſhip and Ordinances amongſt them, what hindrances do ariſe from among themſelves? How oft do they
+<pb n="25" facs="tcp:40252:22"/> quarrel with <hi>Moſes,</hi> and reſolve to make a Captain to carry them back again, and inſtead of promoting Gods inſtituted Worſhip, how prone are they to run to Idolatry?</p>
+            <p>When afterwards they were Cap<g ref="char:EOLhyphen"/>tives in <hi>Babylon,</hi> and the time of their deliverance from thence drew nigh, the Day dawned towards it, God had raiſed up eminent Inſtruments, as <hi>Ezrah, Ne<g ref="char:EOLhyphen"/>hemiah, Zerubabbel,</hi> and <hi>Zechariah;</hi> what Oppoſition doth this work meet withal, from <hi>Sanballat, Tobias,</hi> and others; ſo that the Prophet takes notice of a Mountain, yea a great Mountain that lay in the way of thoſe men whom God uſed in his work, <hi>Zech.</hi> 4.7.</p>
+            <p>And when the Lord ſets on foot the Reformation in the latter dayes, and is about to bring out his Church from Myſtical <hi>Babylon;</hi> we find great difficulties do occurr, ſuch as threaten to ſwallow up the Man-child, as ſoon as he is born, <hi>Rev.</hi> 12.4. Now this hath been Gods way, and conſtant
+<pb n="26" facs="tcp:40252:23"/> courſe, to carry his people, and his Work thorow great difficulties. He could keep down Enemies as eaſily as caſt them down; he could make every man kind and fair to his people, as he did <hi>Eſau</hi> to <hi>Jacob;</hi> and help for<g ref="char:EOLhyphen"/>ward his work, as he did <hi>Cyrus:</hi> But, to glorifie his Name, and exerciſe his peoples Faith, he will carry his work thorow the thickeſt of his Enemies, and their ſtrongeſt oppoſition. This being known to be Gods way from the beginning, his people ſhould prepare for, and expect theſe things: And they have no reaſon to be diſ<g ref="char:EOLhyphen"/>couraged or to deſpond, becauſe things fall out according to former experiences and their expectations.</p>
+            <p>
+               <hi>Secondly,</hi> It is a uſual way of God after he hath given his people hopes of ſome ſpecial Mercy, to bring them to a great loſs before he gives it in to them.</p>
+            <p>When he hath brought ſome Good very nigh them, and raiſed their ex<g ref="char:EOLhyphen"/>pectation, he ſuddenly crucifies all
+<pb n="27" facs="tcp:40252:23"/> the means leading to it, ſo that they ſee the Mercy lying dead before them; and if they go round about it, and view all the means which might render it probable, it ſeems to them to be like thoſe dry Bones which the Prophet ſaw, <hi>Ezek.</hi> 37.2.</p>
+            <p>God made a promiſe to <hi>Abraham</hi> of bleſſing all Nations in his Seed: but before he ſees this made good; <hi>Sarahs</hi> womb is dead, and <hi>Abrahams</hi> body is dead alſo.</p>
+            <p>
+               <hi>Joſeph</hi> has Prophetical dreams of his Honour in his Fathers family: but before this is made good he is ſold, and when he gets a little Credit and Reſpect in a Strange Country, he is caſt from thence into Priſon, and all probabilities of his preferment lie bu<g ref="char:EOLhyphen"/>ried in a Dungeon.</p>
+            <p>
+               <hi>David</hi> had promiſes of the King<g ref="char:EOLhyphen"/>dom after <hi>Saul,</hi> and he riſes fairly to<g ref="char:EOLhyphen"/>wards it for a time, he comes to be a great Courtier, a Favorite with <hi>Jona<g ref="char:EOLhyphen"/>than</hi> and the people: but before he comes to injoy this, he muſt be dri<g ref="char:EOLhyphen"/>ven
+<pb n="28" facs="tcp:40252:24"/> from Court, and from his own Houſe, yea out of the Kingdom, and forc'd to ſerve a ſtrange Prince.</p>
+            <p>Thus when God promiſes to re<g ref="char:EOLhyphen"/>ſtore his people <hi>Iſrael,</hi> and to unite <hi>Judah</hi> and them together, he ſays, he will firſt bring them into the Wilder<g ref="char:EOLhyphen"/>neſs, <hi>Hoſ.</hi> 2.14. He will loſe them as to their own apprehenſions, and bring them into ſuch troubles and di<g ref="char:EOLhyphen"/>ſtreſſes, that they ſhall not ſee the way out of them, nor perceive any way leading to that good which he intends them. Gods way is to crucifie Mer<g ref="char:EOLhyphen"/>cies as they are in the hands of every Creature, that we may look only to him for Salvation. Wicked men are watchful to ſtop everp gap, where any good might come in, and by this means they help forward the Mercy, for they drive us more to God, and ſo nearer to the Mercy which they would prevent. Now they who know this to be Gods way, will yet keep Hope alive, though the means leading to the good they hope for, be dead.</p>
+            <pb n="29" facs="tcp:40252:24"/>
+            <p>
+               <hi>Thirdly,</hi> Gods way is, not to carry on great works for his peoples good, without great Intermiſſions, ſuffer<g ref="char:EOLhyphen"/>ing them to fall back by ſome notable Relapſes. If he do not altogether crucifie the means, yet he ſuffers the work it ſelf to receive ſome deadly Blow for a time. Thus it was with <hi>Iſrael,</hi> and that work which was to give them both the Land of <hi>Canaan,</hi> and the Inſtituted Worſhip of God. How fairly and ſmoothly does this go on for a long time together God inſtructs them concerning his Ordi<g ref="char:EOLhyphen"/>nances, furniſhes them with Laws, and Statutes, carries them through the Wilderneſs, ſo that they were come to the very borders of <hi>Canaan,</hi> and ſeemed even ready to enter; Spies are ſent out on purpoſe to diſcover the Land &amp; they wait but for their return. But when it is come thus far, what a ſtrange Relapſe doth it ſuffer; and for their Unbelief, they are carried quite back again into the Wilderneſs; as if the Lord intended to carry them
+<pb n="30" facs="tcp:40252:25"/> back to <hi>Egypt.</hi> If you peruſe the Hiſtory, you ſhall find that they re<g ref="char:EOLhyphen"/>covered not this, in leſs than Forty years: After ſo long a ſtop, it was in the ſame poſture in which we find it, when <hi>Caleb</hi> and <hi>Joſhua,</hi> with others were ſent out to ſpie out the Land: And as it was in the bringing them out of <hi>Egypt,</hi> and the firſt ſetling of his Worſhip among them, ſo it was in the reſtoring it unto them, when he called them out of <hi>Babylon.</hi> How did the Work begin to flouriſh in <hi>Ezra</hi>'s time? what progreſs did he make in it, ſo that things were like to go on without any rub? Yet what a blow did the Work of building the Temple receive, ſo that it was hin<g ref="char:EOLhyphen"/>dred in the Reign of <hi>Cyrus, Aha<g ref="char:EOLhyphen"/>ſhuerus,</hi> and <hi>Artaxerxes,</hi> to the ſe<g ref="char:EOLhyphen"/>cond year of <hi>Darius, Ezra</hi> 4:5, 6, 7.</p>
+            <p>If we look nearer home, we ſhall find a Confirmation of this truth. The Reformation, begun in <hi>England</hi> by King <hi>Edward</hi> the ſixt, ſuffered a Relapſe in Queen <hi>Maries</hi> days, and
+<pb n="31" facs="tcp:40252:25"/> we were carried back again into the very ſame darkneſs out of which we were aſcending.</p>
+            <p>This is a truth ſo plainly aſſerted in the Records of all Ages, in which any thing of Reformation hath appeared, that it muſt be confeſt to be a Way of God in all times, to ſuffer eminent works, to meet with eminent ſtops: and where this is known and conſider<g ref="char:EOLhyphen"/>ed, it cannot be thought ground of Diſtruſt.</p>
+            <p>
+               <hi>Fourthly,</hi> Gods way is to carry on his own work while it ſeems to be at a ſtand: Though it may meet with many ſtops, yet it never ſtands ſtill. Though ſome of the VVheels ſeem to be fixt, yet others are moving which we ſee not. In thoſe Inter<g ref="char:EOLhyphen"/>vals and Pauſes which appear, God is ſtill about his work. Perhaps, He lays-by ſome viſible part of the Deli<g ref="char:EOLhyphen"/>verance of his people, and of the Deſtruction of Antichriſt; he ſuffers that part to ſtand ſtill which our Eyes are moſt upon, but ſome part of it is
+<pb n="32" facs="tcp:40252:26"/> ſtill in hand; He is either preparing the Enemy for ruine, or fitting his peo<g ref="char:EOLhyphen"/>ple for Mercy. The ſins of the <hi>Amo<g ref="char:EOLhyphen"/>rites</hi> muſt be fill'd up before <hi>Abrahams</hi> ſeed can poſſeſs the Land, and <hi>Iſrael</hi> muſt be fitted for <hi>Canaan,</hi> ere they can enter it. Now thoſe very Pro<g ref="char:EOLhyphen"/>vidences which ſeem to retard gene<g ref="char:EOLhyphen"/>ral Mercies to the Church, do in a ſecret way haſten them; for they do prepare and make ready ſome things which do neceſſarily conduce to them.</p>
+            <p>
+               <hi>Fifthly,</hi> Gods way of working is ſuch, that no difficulties can ſtand be<g ref="char:EOLhyphen"/>fore him when he will appear. What can lie in the way of God, and the Salvation promiſed to his people, but Duſt and Aſhes? And what is all the oppoſition of the world before him; more than Chaff before the Wind? or Stubble before the Fire? Bring the ſtrongeſt Thorns of the Wilder<g ref="char:EOLhyphen"/>neſs, and make the ſtouteſt Fence you can, and ſee whether you can hedg up his way, <hi>Iſa.</hi> 27.4. <hi>Who
+<pb n="33" facs="tcp:40252:26"/> would ſet the Thorns and Bryers a<g ref="char:EOLhyphen"/>gainst me in Battel, I would go thorow them, and would burn them together.</hi> I would firſt break thorow and deſpiſe their oppoſition, and then return and chaſtiſe their folly in their deſtructi<g ref="char:EOLhyphen"/>on. Thus God dealt with <hi>Pharaoh:</hi> he raiſed as much oppoſition as he could againſt God, but He led his people through the midſt of all their Oppoſers while their hands were bound, and then he let them looſe again to follow <hi>Iſrael</hi> into the Red-Sea, where he buried them under the walls which ſhelter'd <hi>Iſrael.</hi>
+            </p>
+            <p>And were thoſe great Oppoſitions which were raiſed againſt the build<g ref="char:EOLhyphen"/>ing of the Temple, more ſuccesful? <hi>Zech.</hi> 4.7. <hi>Who art thou, a great Moun<g ref="char:EOLhyphen"/>tain, before</hi> zerubbabel; <hi>thou ſhalt become a plain.</hi> Who art thou? It is anſwered, A great Mountain. But what is a Mountain, yea a great Mountain, or all the Mountains of the world before him? <hi>But as the ſmall duſt of the ballance,</hi> Iſa. 40.15.</p>
+            <pb n="34" facs="tcp:40252:27"/>
+            <p>All Oppoſitions and Difficulties, will ſeem Inconſiderable in the way of that work which we look upon as Gods, to him that knows his ways.</p>
+            <p>
+               <hi>Sixthly,</hi> It is Gods way to increaſe his people, by thoſe Providences which are likelieſt to deſtroy them. Thoſe Afflictions and Perſecutions which have befallen the People and Church of God, have threatned the ruine of the whole; but indeed have not only added to their ſtature in Grace, but to their increaſe in num<g ref="char:EOLhyphen"/>bers. Thus <hi>Iſrael</hi> did increaſe un<g ref="char:EOLhyphen"/>der a cruel bondage. It is ſaid in <hi>Exod.</hi> 1.12. <hi>The more they afflicted them, the more they multiplied.</hi> And it is obſervable, that there was no conſiderable increaſe of <hi>Abrahams</hi> ſeed, till we read of their oppreſſion. God promiſed to give <hi>Abraham</hi> the Land after four hundred years, and we find 200 of theſe expired before their coming into <hi>Egypt,</hi> and they were then but ſeventy ſouls, <hi>Gen.</hi> 46.27, a ſmall increaſe: But after <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi>
+               <pb n="35" facs="tcp:40252:27"/> death, and their oppreſſion in the laſt two hundred <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs, they were grown to a vaſt Number, ſo that there went out ſix hundred thouſand men of war, beſides Levites, Wo<g ref="char:EOLhyphen"/>men and Children, <hi>Exod.</hi> 12.37. The ſame way hath God taken to raiſe a Goſpel-ſeed, he hath multiplied the Profeſſors of the Truth, by the Op<g ref="char:EOLhyphen"/>preſſion and Rage of their Enemies. Therefore to deſpond, as if the In<g ref="char:EOLhyphen"/>tereſt of Chriſt were ſinking in the world becauſe Perſecution ariſes, is a groſs piece of Ignorance of the ways of God, who multiplies his people by their troubles.</p>
+            <p>
+               <hi>Seventhly,</hi> Another way of God, is to work by thoſe whoſe Intereſt ſeems to lie moſt againſt his work. Rather than God will want inſtru<g ref="char:EOLhyphen"/>ments to deliver his people, and to ſet up his Inſtituted worſhip among them, he will make uſe of men much intereſted againſt it.</p>
+            <p>It is the policy of Satan to twiſt as many potent Intereſts together, as he
+<pb n="36" facs="tcp:40252:28"/> can to hinder the Kingdom of Chriſt, yet when the Lords time is come to deliver his people, he oft makes uſe of thoſe whom we judge moſt in<g ref="char:EOLhyphen"/>gaged againſt it.</p>
+            <p>This is manifeſt in <hi>Iſraels</hi> deliver<g ref="char:EOLhyphen"/>ance from the <hi>Babyloniſh</hi> Captivity; <hi>Iſrael</hi> was then as the dry Bones, no viſible means left for their inlarge<g ref="char:EOLhyphen"/>ment: They were weak and unable to reſcue themſelves, they had no potent Allies, nor Friends to make terms for them. It was the Intereſt of the <hi>Babylonians,</hi> to keep them un<g ref="char:EOLhyphen"/>der in their Captivity; and if it could be hoped that they would part with them, yet they were never able to compaſs the building of the Temple in their poverty; neither could they hope for aſſiſtance in this, from thoſe who had ſpoiled the Temple of all its Ornaments, and been enriched with its Treaſures: Yet when the time comes for the building of the Tem<g ref="char:EOLhyphen"/>ple, <hi>Cyrus</hi> ſhall let the <hi>Jews</hi> go; and rather than ſuch a work ſhall want
+<pb n="37" facs="tcp:40252:28"/> Incouragement, he himſelf ſhall ani<g ref="char:EOLhyphen"/>mate them in building, &amp; furniſh them with all things needful for this work: Nay (which is matter of Aſtoniſh<g ref="char:EOLhyphen"/>ment) he ſhall give up all the Trea<g ref="char:EOLhyphen"/>ſures of the Houſe of the Lord, though they were great, and were a conſiderable increaſe of the <hi>Perſian</hi> wealth and greatneſs. Nay, which is yet more ſtupendous, he ſhall fetch them out of the Houſe of his gods, though conſecrated to them, and give them back to the God of <hi>Iſrael, Ezra</hi> 1.7, 8, 9, 10. And although this work met with Obſtructions; and evil Counſellours had ſuggeſted to the King. That it was againſt his In<g ref="char:EOLhyphen"/>tereſt to ſuffer ſuch a work as this to go forward; yet God inclined the hearts of the Kings of <hi>Perſia,</hi> to fa<g ref="char:EOLhyphen"/>vour and further it: As you may ſee, <hi>Ezra</hi> 6.8, 9.10. <hi>Ezra</hi> 7.15.20, 21. <hi>Neh.</hi> 2.8. Now if we conſult their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntereſt, this could not be rationally expected from them: How could we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope that they ſhould advance the
+<pb n="38" facs="tcp:40252:29"/> Worſhip of a God they did not pro<g ref="char:EOLhyphen"/>feſs to ſerve? Who could expect that they ſhould incourage <hi>Iſrael,</hi> in that which would make them a di<g ref="char:EOLhyphen"/>ſtinct people from all the world, and thereby raiſe them, from being uſeful Servants, to become formidable E<g ref="char:EOLhyphen"/>nemies? Yet when God will make uſe of men to help forward his Work, he will make them Blind, and Deaf to their own Intereſts; they ſhall ſerve the Intereſts of God, while they ſeem to deſtroy their own.</p>
+            <p>Thus it ſhall be in the Deliverance of the Church from Myſtical <hi>Baby<g ref="char:EOLhyphen"/>lon:</hi> God will work by thoſe whoſe Intereſt that Antichriſtian Whore hath twiſted together with hers a<g ref="char:EOLhyphen"/>gainſt Reformation, and the Liberty of the Saints, from her cruel Bon<g ref="char:EOLhyphen"/>dage. For they who did agree to<g ref="char:EOLhyphen"/>gether to give their power to the Beaſt, to ſupport and uphold his Kingdom, ſhall alſo agree together to hate the Whore, and make her deſolate, <hi>Rev.</hi> 17. <hi>v.</hi> 12. compared with the 16.</p>
+            <pb n="39" facs="tcp:40252:29"/>
+            <p>It is matter of Diſcouragement to many good men, to conſider how many Powerful Intereſts are united, againſt the Intereſt of the Goſpel and Reformation: But alas, when God will work, he can ingage thoſe to aſ<g ref="char:EOLhyphen"/>ſiſt, from whom in the Eyes of Rea<g ref="char:EOLhyphen"/>ſon, we have moſt cauſe to fear. And doubtleſs it is Antichriſt's great ſecurity, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he ſits upon many wa<g ref="char:EOLhyphen"/>ters, and hath many conſiderable ones in combination with him: And though theſe ſeem to be inſeparably fixed to him, ſo that they are in dan<g ref="char:EOLhyphen"/>ger of ſinking if he fall, or they ſtart; yet will God not only pluck theſe away, but alſo ſtrip him naked by thoſe who have helped to adorne him.</p>
+            <p>To deſpond therefore, and ſay, <hi>Jacob</hi> is low, By whom ſhall he riſe? is to forget, that God can and will raiſe him (rather than he ſhall ſink) by thoſe, whom we fear moſt will keep him down. When the Church is fit for Deliverance, rather than ſhe
+<pb n="40" facs="tcp:40252:30"/> ſhall want help, God will work by his Enemies.</p>
+            <p>
+               <hi>Laſt of all,</hi> It is Gods way to ap<g ref="char:EOLhyphen"/>pear for the Salvation of his people, when their hearts and hopes are low<g ref="char:EOLhyphen"/>eſt. He comes at their Midnight, when they have no Light of Senſe, and perhaps few have the Light of Faith. That of our Saviour is re<g ref="char:EOLhyphen"/>markable, <hi>Luke</hi> 18.7, 8, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſhall not God avenge his own Elect, that cry Day and Night unto him;</hi> I <hi>tell you he will avenge them ſpeedily. Neverthe<g ref="char:EOLhyphen"/>leſs when the Son of Man cometh, shall he find Faith on the Earth?</hi> Though there ſhall be found a ſpirit of prayer among the Elect, and I tell you (ſays Chriſt) God wil avenge them, and that ſpeedily too, and this I leave upon Record for their com<g ref="char:EOLhyphen"/>fort; yet, when I come to deliver, I ſhall ſcarcely find Faith concerning my Coming, and Avenging, amongſt my praying people.</p>
+            <p>The Scripture is full of Inſtances to prove this Truth, When <hi>Abraham</hi>
+               <pb n="41" facs="tcp:40252:30"/> is call'd to offer up <hi>Iſaac,</hi> (and in him the great Bleſſing promiſed to all Na<g ref="char:EOLhyphen"/>tions) the Lord doth not appear for his deliverance, till the Knife be lift<g ref="char:EOLhyphen"/>ed up over him to ſlay him; and <hi>Abraham</hi> ſets a note of Obſervation upon this Providence, that it may be for Inſtruction and Comfort to all the People of God, who ſhall meet with the like difficulties at any time, <hi>Gen.</hi> 22.14. <hi>He calls it</hi> Jehovah-Ji<g ref="char:EOLhyphen"/>reh (and the Proverbial Gloſs upon this is very good) <hi>In the Mount of the Lord it shall be ſeen.</hi> It is not ſaid, In the Mount God hath been ſeen, looking back to what God had done, but it looks forward to what God ſhould do, and his people might expect in after Ages. <hi>Moſes</hi> leaves this Gloſs as a Prop to the Faith of Gods people, that when they are in as great ſtreights as he was, they may be able to ſay; In the Mount, God will be ſeen: And this indeed hath been confirmed by Inſtances of great Note.</p>
+            <pb n="42" facs="tcp:40252:31"/>
+            <p>When <hi>Iſrael</hi> was in <hi>Egypt,</hi> and her bondage great, God ſends <hi>Moſes</hi> with a Meſſage of Deliverance, and the hopes of this, refreſht their hearts a little. But we find more Load laid upon their backs, which were ready to break before; ſo that the people beg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to be angry with <hi>Moſes,</hi> judg<g ref="char:EOLhyphen"/>ing that he had made then Condition worſe: Hereupon God begins to plague the <hi>Egyptians;</hi> this moves <hi>Pharaoh</hi> and his people, and they ſeem inclinable to let <hi>Iſrael</hi> go, and begin to treat about it; they treat and break, and renew their Treaty again; the Iſraelites are between hope and fear concerning the iſſue of this; but at laſt <hi>Pharaoh</hi> grows reſolute and deſperate, and not only refuſes to let them go, but threatens <hi>Moſes</hi> and <hi>Aaron</hi> with death, if they come any more in his ſight, <hi>Exod.</hi> 10.28. Now you may conceive the hearts of the Children of <hi>Iſrael</hi> are ſinking, and they reaſon thus with themſelves; If all this will not work our Deliver<g ref="char:EOLhyphen"/>ance,
+<pb n="43" facs="tcp:40252:31"/> then wo unto us; we ſee <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> is reſolv'd not to let us go; we muſt prepare for ſuffering and perpe<g ref="char:EOLhyphen"/>tual ſlavery, yea, and to bear what over the wrath of an inraged Enemy can inflict upon us, who will ſurely be revenged for all that <hi>Egypt</hi> hath ſuffered, and ſo all theſe plagues will in the Concluſion and in Effect, fall on us. Thus dark in all probability were their apprehenſions; but now the time is come to fulfil the Promiſe, and God appears at their Midnight, and brings them out with a high Hand.</p>
+            <p>Let us follow them into <hi>Canaan,</hi> where we find them ſinning away their Freedom, and God gives them up into the hands of the <hi>Philiſtins,</hi> from whom he doth not deliver them till they are brought exceeding low. Their enemies we ſhall find were ve<g ref="char:EOLhyphen"/>ry high, and they as low, 1 <hi>Sam.</hi> 13.5, 6. they were diſpirited, their hearts failed them; <hi>ſo that many hid them<g ref="char:EOLhyphen"/>ſelves in Rocks, Caves, and Thickets,</hi>
+               <pb n="44" facs="tcp:40252:32"/> high Places and Pits: they who had ſo much courage to aſſemble with <hi>Saul,</hi> followed him trembling, <hi>ver.</hi> 7. and theſe were but a very few, <hi>v.</hi> 15. <hi>about ſix hundred men,</hi> and theſe alſo unarmed, <hi>v.</hi> 22. and that their af<g ref="char:EOLhyphen"/>fliction might be preſſed down and running over, their King and Gene<g ref="char:EOLhyphen"/>ral had received a dreadful Check, a ſad Meſſage of his Rejection; and the Prophet that brought it was gone a<g ref="char:EOLhyphen"/>way, as if he would not ſtay to ſee the ruine of him, and that handful of men that followed him. Surely this people ſeem to be as near to de<g ref="char:EOLhyphen"/>ſtruction, as <hi>Iſaac</hi> in the Mount; yet here was God ſeen, and Deliverance comes when it was never leſs expe<g ref="char:EOLhyphen"/>cted or hoped for by a people.</p>
+            <p>Let us view them in their Captivity when they were in <hi>Babylon,</hi> and their Condition was as deſperate as ever, <hi>Ezek.</hi> 37.1, 2, 3. <hi>Iſrael</hi> was like a company of dry Bones, yea, like Bones which had not a Grave afford<g ref="char:EOLhyphen"/>ed them; they were ſcattered, Bone
+<pb n="45" facs="tcp:40252:32"/> from Bone, and very dry; ſo that the Lord asks the Prophet, this Queſti<g ref="char:EOLhyphen"/>on; <hi>Can theſe dry Bones live?</hi> Pro<g ref="char:EOLhyphen"/>babilities of their Deliverance ceaſe, and the Poſſibility comes now to be a Queſtion, and it is ſo great a Queſti<g ref="char:EOLhyphen"/>on, that God only can reſolve it: <hi>Lord thou knoweſt,</hi> ſays the Prophet: He only can tell what can be done in this Caſe, who can do what he will in any Caſe. Now when things are brought to this Extremity, then the Lord begins to work, <hi>ver.</hi> 4, 5. A<g ref="char:EOLhyphen"/>gain the Lord ſaid unto me, Prophe<g ref="char:EOLhyphen"/>ſie upon theſe Bones, and ſay un<g ref="char:EOLhyphen"/>to them: <hi>O ye dry Bones, hear the Word of the Lord.</hi> Thus ſaith the Lord God unto theſe Bones, <hi>Behold,</hi> I <hi>will cauſe breath to enter into you, and ye ſhall live,</hi> &amp;c. And as it was then, ſo it will be at the laſt and great De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iverance of the Church, from the Tyranny of Myſtical <hi>Babylon.</hi> The Beaſt ſo far prevails over the Wit<g ref="char:EOLhyphen"/>neſſes, that they Propheſie in Sack<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loth a great while; but a little be<g ref="char:EOLhyphen"/>fore
+<pb n="46" facs="tcp:40252:33"/> the ruine of Antichriſt, he over<g ref="char:EOLhyphen"/>comes, and kills the Witneſſes, and inſults over their dead Bodies, <hi>Rev.</hi> 11.7, 8, 9. But now, when their dead Carcaſes have been expoſed to the view of all the world, and the ſcorn of Antichriſt hath been ſufficiently manifeſted in Triumphing over them, and making merry for their Deſtru<g ref="char:EOLhyphen"/>ction; even then ſhall God raiſe up theſe Witneſſes, and his Work and Cauſe in their Hands, to the Aſtoniſh<g ref="char:EOLhyphen"/>ment and Terrour of their Adverſa<g ref="char:EOLhyphen"/>ries: And then, when the Whore thought ſhe had gotten all, ſhall thoſe Voices be heard; The Kingdoms of the World, are become the Kingdoms of our Lord and his Chriſt. And in<g ref="char:EOLhyphen"/>deed, this is that which the Lord fore<g ref="char:EOLhyphen"/>told long ſince, <hi>Deut.</hi> 32.36. <hi>The Lord will judg his people, and repent himſelf for his Servants, when he ſees that their power is gone, and there is none ſhut up or left.</hi> Gods people have been too high, but never too low for him to work by: Therefore
+<pb n="47" facs="tcp:40252:33"/> the lower and faſter they fall, the ſooner we ſhall expect their Deliver<g ref="char:EOLhyphen"/>ance, if we judg as people that un<g ref="char:EOLhyphen"/>derſtand the Ways of God towards his people. But if we ſhall ſtretch our meaſuring Line over the Path of the Almighty, we ſhall afflict and per<g ref="char:EOLhyphen"/>plex, our own ſpirits, diſhonour and provoke God, and give up our hopes upon every Cloud that ariſes, and all becauſe we know not the Ways of the Lord. Thus I have ſhewn you that Diſtruſt of God in ſtreights, is a conviction of Ignorance concern<g ref="char:EOLhyphen"/>ing the Ways of the Lord, which he walks in towards us.</p>
+            <p>I may add alſo, It is a Demonſtra<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of our Ignorance, touching the ways which we ought to walk in, towards him. For the ways of our Duty, aſwel as the ways of Provi<g ref="char:EOLhyphen"/>dence, are called the Ways of the Lord in Scripture, as is evident if we conſult, <hi>Pſal.</hi> 18.21. 2 <hi>Cor.</hi> 11.6. <hi>Pſal.</hi> 108.5. And this is certain, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is not mindful of one, ſeldom
+<pb n="48" facs="tcp:40252:34"/> underſtands the other; they who do miſtake Gods ways of Providence to<g ref="char:EOLhyphen"/>wards them, commonly fail in their Duties to him. When <hi>Iſrael</hi> did miſinterpret his Providences, they preſenly talked of going back into <hi>Egypt;</hi> and thoſe Hypocrites in <hi>Ma<g ref="char:EOLhyphen"/>lachi,</hi> when they ſaw that things went contrary to their expectation, cry out, <hi>Mal.</hi> 3.14. What profit is there in ſerving the Lord, they are carried back again to their old Pro<g ref="char:EOLhyphen"/>phaneſs. Such perſons ſhew an Ig<g ref="char:EOLhyphen"/>norance in the ways of God, in three particulars: They know not, or con<g ref="char:EOLhyphen"/>ſider not,</p>
+            <p>
+               <hi>Firſt,</hi> That it is our duty to hold on in the VVays of God, notwith<g ref="char:EOLhyphen"/>ſtanding all the difficulties or dark<g ref="char:EOLhyphen"/>neſſes that can ariſe. This is that which the Apoſtle exhorts unto, <hi>Heb.</hi> 12.13. Make ſtreight ſteps to your feet, let no Affliction or Trouble that you meet withal in the ways of God, turn you out of the way, or make your paths crooked; to make you pick
+<pb n="49" facs="tcp:40252:34"/> and chooſe for your ſelves, the way which is ſmootheſt and ſafeſt, and make you leave the way which is neareſt; and to this purpoſe he ſets the Example of Chriſt before them, who went ſtrait on in his way, though the Croſs, the Shame, and Reproach of men lay in it, <hi>Heb.</hi> 12.2.</p>
+            <p>If thou knoweſt not the way in which God walks in towards thee, yet thou knoweſt the way in which thou art to wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k with God. If there be not a Path of Providence viſible, yet there is a way of Duty. Be ſure thou keep cloſe to this, and ſtep not out of Gods way to avoid trouble; it is better to meet w th danger in our Duty, than doubts about it. If now thou art careful to keep cloſe to Gods revealed ways, when his Pro<g ref="char:EOLhyphen"/>vidential w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys are Dark and Intricate; He w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſet a Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of Honour upon thee, as he did upon thoſe who kept cloſe to him, and their duty, when it was dangerous, <hi>Mal.</hi> 3.16, 17. Now Diſtruſt carries men out of their
+<pb n="50" facs="tcp:40252:35"/> way, and while they are judging of Providence, they are forgetful of their own Duties.</p>
+            <p>
+               <hi>Secondly,</hi> We ſhould not only hold on in our duty, under the great<g ref="char:EOLhyphen"/>eſt difficulties and diſcouragements, but we ſhould continue with hope, when we are loweſt; God would have us plough in hope, and work as thoſe who ſerve a good Maſter. Therefore, Hope is not only com<g ref="char:EOLhyphen"/>mended as the Priviledg, but com<g ref="char:EOLhyphen"/>manded as the duty of Gods people, <hi>Lam.</hi> 3.26. <hi>It is good that a man ſhould hope, and quietly wait for the Salvation of the Lord.</hi> And 1 Pet. 1.13. the Apoſtle ſpeaks after this manner, <hi>Gird up the loins of your minds, be ſober, and hope to the end.</hi> Now there be three things which we ſhould hope for, in the troubles which befal the Church: Firſt of all, We ſhould hope that God will in our days fulfil the Promiſes which he hath made, for the Reſtoring and De<g ref="char:EOLhyphen"/>livering of his Church. God would
+<pb n="51" facs="tcp:40252:35"/> have us not only bear our part in the Afflictions which befal it, and pray for her Deliverance, but rejoyce alſo in the hope of her promi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Salvati<g ref="char:EOLhyphen"/>on, <hi>Rom.</hi> 12.12. <hi>Rejoycing in Hope, patient in Tribulation.</hi> Secondly, We ſhould hope, that if the Mercies which we wait for, are not ready for us, yet our patient and prudent bea<g ref="char:EOLhyphen"/>ring of Trouble, may ripen and pre<g ref="char:EOLhyphen"/>pare them for the next Generation. Thirdly, If e w ſee not any of the Promiſes fulfilled, which concern the good of the whole Church, yet we ſhould expect good out of theſe trou<g ref="char:EOLhyphen"/>bles our ſelves, and hope for to re<g ref="char:EOLhyphen"/>ceive benefit from our Afflictions.</p>
+            <p>
+               <hi>Thirdly,</hi> We ſhould not only hope, but rejoyce always in God; this is as poſitively commanded, as any duty, both in the Old and New Te<g ref="char:EOLhyphen"/>ſtament, <hi>Pſal.</hi> 33.1. <hi>Rejoyce in the Lord, oh ye Righteous.</hi> And Pſal. 97.12. Joel 2.23. <hi>Be glad, ye Children of</hi> Zion, <hi>and rejoyce in the Lord your God.</hi> Phil. 4.4. <hi>Rejoyce in the Lord
+<pb n="52" facs="tcp:40252:36"/> always, yea again,</hi> I <hi>ſay rejoyce.</hi> If thou art a Believer, thou art call'd to rejoyce in God, what ever thy con<g ref="char:EOLhyphen"/>dition be; and thou art bound in every thing to give thanks, and if thou haſt no other conſideration to make thee thankful but this, it is enough. Thy caſe, neither is, nor ever ſhall be ſo bad, but thou ſhalt have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome<g ref="char:EOLhyphen"/>thing to rejoyce in; and God who beſt underſtands thy Condition, bids thee rejoyce. But a wicked man was ne<g ref="char:EOLhyphen"/>ver call'd upon to rejoyce, by him who underſtands h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Condition; and when he comes to know himſelf, he will confeſs that he hath been joyful without a cauſe, whereas thou art ne<g ref="char:EOLhyphen"/>ver without cauſe of rejoycing. Therefore do as <hi>Job</hi> did, when he could not rejoyce in the Providences of God, he rejoyced in his Name. <hi>Bleſſed be the Name of the Lord,</hi> ſays <hi>Job:</hi> Though the Providences of God were full of Darkneſs, his Name was full of Light and Comfort, when a view of Providence makes the heart
+<pb n="53" facs="tcp:40252:36"/> ſink with fear; a ſight of this by Faith, will raiſe it again to a frame of Bleſſing: And certainly, the dejecti<g ref="char:EOLhyphen"/>ons of Gods people, do moſt of them ariſe from an overlooking, or forgetting of the bleſſed Name of God, which is made up of loving-Kindneſs, Mercy, Goodneſs, and Truth, to all that are in Covenant with him; and ſpeaks nothing but Conſolation and Incouragement, whatever may be the Language of his Providences. Thus you ſee Unbe<g ref="char:EOLhyphen"/>lief ſpeaks our Ignorance of Gods ways, whether they be ways of Pro<g ref="char:EOLhyphen"/>vidence in which he walks towards us, or ways of Duty in which we are to walk with him. I have been large upon this, becauſe the Holy Ghoſt inſiſteth upon this, as the reaſon why <hi>Iſrael</hi> miſcarried, and God was pro<g ref="char:EOLhyphen"/>voked.</p>
+            <div n="1" type="section">
+               <pb n="54" facs="tcp:40252:37"/>
+               <head>Uſe of the Point.</head>
+               <p>IF Diſtruſt in our ſtreights be ſo great a Provocation, then let us ſearch and try our ways, and make narrow inquiry into our hearts, and we ſhall find upon the Obſervation of their Frames and Carriages under the ſtreights which we have met withal, more ſin to be humbled for, than we have yet been ſenſible of. God hath many ways to bewilder a people, ſom<g ref="char:EOLhyphen"/>times in their Perſonal, ſometimes in their Family Concernments; ſome<g ref="char:EOLhyphen"/>times by bringing private ſometimes publick Intereſts to loſs; ſometimes by clouding our Civil, and ſometimes our Spiritual Comforts; and ſome<g ref="char:EOLhyphen"/>times again, He brings dark Provi<g ref="char:EOLhyphen"/>dences upon us, and even fruſtrates our Expectation in every Creature: He takes away thoſe who might have been Props to us, and perhaps hides himſelf, and we grope in thick dark<g ref="char:EOLhyphen"/>neſs for the way.</p>
+               <pb n="55" facs="tcp:40252:37"/>
+               <p>Now it is obſervable, that Afflicti<g ref="char:EOLhyphen"/>on makes us look back upon former Conditions, and inquire what hath been the ſin of them; as <hi>David,</hi> in his trouble ſees the folly of his pro<g ref="char:EOLhyphen"/>ſperity, <hi>Pſal.</hi> 30.6, 7. But our Pro<g ref="char:EOLhyphen"/>ſperity ſeldom leads us back to conſi<g ref="char:EOLhyphen"/>der, and mourn over the miſcarriages that we have been guilty of, under Affliction. Notwithſtanding we murmure, and expreſs much Impati<g ref="char:EOLhyphen"/>ence, at leaſt are full of Diſtruſt, and Deſponding thoughts, touching God's Providence and gracious Care over us: Yet we ſeldome recal thoſe to judg our ſelves for them, and the rea<g ref="char:EOLhyphen"/>ſon is, we think theſe are Lapſes of eaſie pardon, and that there is reaſon to be fetcht for theſe things from our Condition. We think our ſtreights will juſtifie our diſtruſts; and we rec<g ref="char:EOLhyphen"/>kon theſe among the Frailties of Gods people: But what we have excuſed as frailties and Infirmities, the Holy Ghoſt condemns as Provo<g ref="char:EOLhyphen"/>cations. Wherefore if you recollect
+<pb n="56" facs="tcp:40252:38"/> your thoughts, you will find cauſe to bewail thoſe things as great Pro<g ref="char:EOLhyphen"/>vocations, which you have ſlightly paſſed over as ordinary weakneſſes. Therefore let us judg our ſelves, for our diſtruſt of God under former tryals; let us ſay as <hi>David</hi> did of him<g ref="char:EOLhyphen"/>ſelf, in the like caſe, <hi>Pſal.</hi> 73.22. <hi>So fooliſh and ignorant was I, and as a beaſt before thee.</hi> A ſound and thorow humbling of your ſelves for theſe things, may prevent the like miſcar<g ref="char:EOLhyphen"/>riages for time to come.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Uſe</hi> 2.</head>
+               <p>The next and principal uſe of this point, is to caution Profeſſours of Godlineſs, that they provoke not God as theſe <hi>Iſraelites</hi> did. Take the very words of the Apoſtle, and I hope you will give the more heed to this Uſe, as being proper and ge<g ref="char:EOLhyphen"/>nuine, ſuch as the Holy Ghoſt makes of it, <hi>ver.</hi> 12. <hi>Take heed lest there be in any of you an evil heart of unbelief.</hi>
+               </p>
+               <pb n="57" facs="tcp:40252:38"/>
+               <p>If God ſhould bring you into a Wilderneſs, and you ſhould meet with the ſame ſtreights that <hi>Iſrael</hi> met withal, if you ſhould ſee no way out of them; yet take heed of their ſins: Remember, that all their ſtreights and troubles did not juſtifie their di<g ref="char:EOLhyphen"/>ſtruſt. God would not paſs by their Unbelief, though they were his own people, and the only people he had in the world; and they were the firſt that were ſo exerciſed, and ſo might plead Ignorance more than we can. And if he will not ſpare them, much leſs us, who have their experiences and the addition of many Ages be<g ref="char:EOLhyphen"/>ſide to confirm us in our depending upon God. If he puniſhed their diſtruſt ſeven-fold, he will puniſh ours ſeventy times ſeven-fold.</p>
+               <p>Now, It being my great deſign to prevent this ſin, to which <hi>Iſrael</hi> of old was ſo inclined, and to which (if I may judg by my own heart) we are ſtill too propenſe. I ſhall lay a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew Conſiderations before you; and
+<pb n="58" facs="tcp:40252:39"/> Oh that God would ſpeak ſo effectual<g ref="char:EOLhyphen"/>ly by them, to every one of our hearts, that this ſin may be preven<g ref="char:EOLhyphen"/>ted.</p>
+               <p>
+                  <hi>Firſt,</hi> Conſider, It is a provo<g ref="char:EOLhyphen"/>king ſin: Its call'd in the Text the Provocation. <hi>Iſrael</hi> was guilty of many and grievous ſins in the Wilder<g ref="char:EOLhyphen"/>neſs; but none provoked God as this did. He expreſt his diſpleaſure againſt other ſins, as their Idolatry, their whoredoms with the Daughters of <hi>Moab,</hi> their luſting after ſtrange fleſh, yet he did not ſet any ſuch note of his Indignation, upon any of theſe, as as he did upon their Unbelief: This ſin bears the name of the Provoca<g ref="char:EOLhyphen"/>tion.</p>
+               <p>In other caſes he did ſhew Mercy, and paſt by the Tranſgreſſion of his Heritage, but becauſe of this ſin he re<g ref="char:EOLhyphen"/>tained his anger, till he had conſu<g ref="char:EOLhyphen"/>med them in the VVilderneſs. Yea, <hi>Moſes</hi> who had given ſuch notable proof of his Faith and Courage in <hi>Egypt,</hi> for one Act of unbelief, muſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="59" facs="tcp:40252:39"/> be debarr'd from going into <hi>Canaan, Deut.</hi> 32, 51, 52. And though he could prevail for the whole Nation, when they had tranſgreſſed in making the Golden Calf, <hi>Exod.</hi> 33.17. Yet he cannot prevail for himſelf, to go up into that good Land, no, though he prayed for it, and reaſons from all the kindneſs that God had ſhewn him al<g ref="char:EOLhyphen"/>ready, <hi>Deut.</hi> 3.24, 25. Yet he can get on other Anſwer, but this; <hi>Speak to me no more of this matter.</hi>
+               </p>
+               <p>Surely, God is angry with this ſin, for which he will not be intreated by <hi>Moſes,</hi> and for himſelf, and for one Act of unbelief. Any thing that ſa<g ref="char:EOLhyphen"/>vours of Infidelity, diſpleaſes God more than many crimes of Morality, God will note more, and viſit your unbelief, and diſtruſt of his Mercy, Goodneſs, and Truth, than all other your miſcarriages under Affliction; and the reaſon is, becauſe it is moſt oppoſite to that frame of Spirit, which ſhould honour God, eſpecial<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in time of trouble. For nothing
+<pb n="60" facs="tcp:40252:40"/> doth ſo expreſs the Life and Power of Grace in times of Temptation and Affliction, as Believing, Hoping, and Rejoycing in God; this doth moſt eminently pleaſe him, and give him glory, and the contrary muſt needs as much diſpleaſe and provoke him; and if we will not believe this to be a truth, God will make us feel it.</p>
+               <p>
+                  <hi>Secondly,</hi> Conſider, You will not only provoke, but you will grieve the Lord by this ſin: I hope, you will weigh this well, becauſe it is alſo a Conſideration in the Text, and ſhews how God is affected with the miſcar<g ref="char:EOLhyphen"/>riages of his people, when they di<g ref="char:EOLhyphen"/>ſtruſt him. The word which we ren<g ref="char:EOLhyphen"/>der grieved, is obſervable, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> wich comes of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies the Bank of a River, becauſe grie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> makes the heart ſwell, as a Rive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> does when it overflows it Banks.</p>
+               <p>This Paſſion is attributed to God to ſhew what offence he takes at thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin; It is compounded of Anger
+<pb n="61" facs="tcp:40252:40"/> Love, and Pitty. When we meet with that which is offenſive in thoſe we love<g ref="char:punc">▪</g> we are the more troubled, not at the Act ſimply, but becauſe it is the Act of one whom we love.</p>
+               <p>It is obſerved, that the word here uſed, is not uſed any where in all the New Teſtament, ſave in this Chap<g ref="char:EOLhyphen"/>ter, to expreſs Gods diſtaſt at <hi>Iſraels</hi> ſin. But it is frequently uſed in the Old Teſtament; by this word the offence which <hi>Rebeccah</hi> took at <hi>E<g ref="char:EOLhyphen"/>ſau</hi>'s hating of <hi>Jacob</hi> is expreſſed, <hi>Gen.</hi> 27.46. She was angry with him for hating his Brother, but this was not all; to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r anger was added <hi>grief</hi> and trouble of ſpirit, becauſe it was her ſon <hi>Eſau</hi> that hated him. Thus God is highly offended with the ſin of un<g ref="char:EOLhyphen"/>belief, but he is grieved when this is the ſin of a people ſo near him; ſo that we ſee ſuch a Paſſion is attributed to God as is given to Parents, or Go<g ref="char:EOLhyphen"/>vernours, when they ſee thoſe whom they love, and have under their charge, running into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e and dan<g ref="char:EOLhyphen"/>gerous
+<pb n="62" facs="tcp:40252:41"/> courſes, notwithſtanding all their care to reclaim them. Now a Child that hath any Remains of good nature in him, though he hath no grace, and will not be ſtopt in his full Career of ſin, by all the Inſtructions and Corrections of his Parents, but grows regardleſs of their anger and diſpleaſure, and hath born many a Check, Reproof, or Blow, without relenting; yet hath melted when he hath ſeen his Father or Mother mourn for him, and lay his Condition to heart. Chriſtian, Canſt thou hear that God is provoked, and not fear? Yea, Can you hear that he is grie<g ref="char:EOLhyphen"/>ved, and not melt? Surely you can<g ref="char:EOLhyphen"/>not: Grace is the moſt ingenuous thing of the world. It is the beſt Nature, for it is the <hi>Divine Nature:</hi> Let it ſuffice to tell you, that unbelief will go very near the heart of your Father; if any thing could be ſaid to break his heart, it would be this. His Enemies, the Prophane ones of the world, do vex and anger him, but
+<pb n="63" facs="tcp:40252:41"/> you are the people that grieve him; your ſins do trouble him, at a higher rate than theirs, and, of all your ſins; unbelief moſt of all. Oh therefore, if God have any conſiderable Inte<g ref="char:EOLhyphen"/>reſt in your hearts, let unbelief have none. Oh do not grieve the Spirit of God that would comfort you; If you ſadden the Spirit of the Lord by your Diſtruſt, how ſhall he com<g ref="char:EOLhyphen"/>fort you in your Diſtreſs?</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſider, You will loſe the moſt glorious opportunity of ho<g ref="char:EOLhyphen"/>nouring God and Religion, that ever was put into your hands; nay, per<g ref="char:EOLhyphen"/>haps thou mayſt never have the like again: God has brought thee into a Wilderneſs, that thou mayſt give thy Teſtimony, and ſet to thy Seal, that God is true. Men will obſerve, and, if ever, now they will believe it: they take little notice what thou ſayſt of God in proſperity: the Devil excep<g ref="char:EOLhyphen"/>ted againſt <hi>Job</hi>'s Teſtimony in this caſe: But, ſays he, put forth thy hand and touch all that he hath, and he
+<pb n="64" facs="tcp:40252:42"/> will curſe thee to thy face.</p>
+               <p>It is no proof of ſincerity, to ſpeak well of God, while he does well to us; or to follow Chriſt while he hath the Loaves: but, to follow him in a wilderneſs, in a Land not ſown; yea, to follow him chearfully too, will make men take notice of, and re<g ref="char:EOLhyphen"/>gard our Teſtimony that we bear to his Goodneſs, All-ſufficiency, and Truth. He that runs may read in thy chearful behaviour under ſtreights that God is good, becauſe thou ſpeakeſt good of him at all times; that he is All ſufficient, becauſe you can be contented, yea, full, and a<g ref="char:EOLhyphen"/>bound in the want of all things, ha<g ref="char:EOLhyphen"/>ving him; that he is True and Faith<g ref="char:EOLhyphen"/>ful becauſe you can imbrace the Pro<g ref="char:EOLhyphen"/>miſes, and live upon them, when all Providences run contrary to them. Oh Chriſtians, If ever you would have the world believe that God is good, yea, the Chief Good, that he is to be choſen for himſelf, that he i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Portion, and enough when a<g ref="char:EOLhyphen"/>lone;
+<pb n="65" facs="tcp:40252:42"/> and that you have choſen him ſo, and do not repent your choice. If ever you would convince men that God is True, and that he never fails thoſe that ſeek him; bear your Teſtimony to theſe things in a Wilderneſs; then men will believe you. Walk but evenly and chear<g ref="char:EOLhyphen"/>fully in the ſtreights that he brings you, and his people into; and you will perſwade men more, than a thou<g ref="char:EOLhyphen"/>ſand Sermons poſſibly will do; but if you loſe ſuch an opportunity, never look to honour God at that rate while you live.</p>
+               <p>
+                  <hi>Fourthly,</hi> Conſider, Diſtruſt of God hath no excuſe. Though men have many pleas for it, yet when thy eyes are opened, thou wilt have no cloak for it. It is impoſſible for a Child of God to be brought into any ſtreight, or to experience any trou<g ref="char:EOLhyphen"/>ble or difficulty in any condition, for which God hath no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ded ſome ſurable word of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wo ld be too long a work <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to und <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>take,
+<pb n="66" facs="tcp:40252:43"/> to ſhew you what proviſions God hath made for the Comfort and Support of his people in all eſtates. If I ſhould deſcend to particulars, I ſhould not know where to ſtop: I ſhall only hint what care he hath ta<g ref="char:EOLhyphen"/>ken for the general Intereſt of his people, when he brings his Church into a Wilderneſs, as he did <hi>Iſrael.</hi>
+               </p>
+               <p>This is a certain truth, that God never calls his people into a Wilder<g ref="char:EOLhyphen"/>neſs, but he gives them Bread in their Hands, or ſends it thither before them, that they may live and feed upon it in their ſtreights. As God ſent <hi>Joſeph</hi> before to provide for <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> and to keep him and his family alive in the Famine: So does he ſend Proviſion before, for the Faith of his people, <hi>Pſal.</hi> 74.14. <hi>Thou brak<g ref="char:EOLhyphen"/>eſt the heads of the Dragon in the wa<g ref="char:EOLhyphen"/>ter; thou brakeſt the head of the</hi> Le<g ref="char:EOLhyphen"/>viathan <hi>in pieces, and gaveſt him to be meat to the people, inhabiting the wilderneſs. Iſrael</hi> was, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt now, entring into a barren howling
+<pb n="67" facs="tcp:40252:43"/> Wilderneſs; and that he might not faint for want of Proviſion for his Faith, he gives him a miraculous Deliverance from the Red-Sea, and <hi>Pharaoh;</hi> the experience of which was enough for their Faith to feed upon, in all the Difficulties they ſhould afterwards meet with: Had they underſtood and improved this Deliverance, they would never have provoked God by Diſtruſt in the Wilderneſs.</p>
+               <p>Object. <hi>But you may ask, What Proviſion hath God made for his peo<g ref="char:EOLhyphen"/>ple, now in the wilderneſs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Firſt, You have the Pro<g ref="char:EOLhyphen"/>pheſies of the Troubles which ſhall befal the Church of God, and the Perſecutions which ſhould ariſe. If we be ſurpriſed at any time, it is our own fault, God hath warned us, and furniſhed us with all his Armour, he hath bid us put it on, and be always ſhod with the preparation of the Go<g ref="char:EOLhyphen"/>ſpel of Peace. Now expectation of evil, is a great preparation to the
+<pb n="68" facs="tcp:40252:44"/> bearing of it: This Chriſt intimates, when he ſays, <hi>John</hi> 16.1. <hi>Theſe things have I told you, that you might not be offended.</hi> What an unreaſonab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thing is it to diſtruſt God, becauſe his Word is true? He hath told us that through many Tribulations, we muſt enter into the Kingdom of Heaven, and if we will live godlily, we muſt ſuffer Perſecution: now when we find what he hath foretold of this, proves true; why ſhould we not be<g ref="char:EOLhyphen"/>lieve all the Promiſes which he hath joyned to theſe Predictions? Are not his Promiſes as true, as any part of his Word? Are hath not he that foreto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d our Troubles, promiſed to bear m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up under them, carry us tho<g ref="char:EOLhyphen"/>row them, and to do us good by them<g ref="char:punc">▪</g>
+               </p>
+               <p>Secondly, You have all the Pro<g ref="char:EOLhyphen"/>miſes of the good which God hath to br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng upon his people in the l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> days and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo made, that you m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling in the dark<g ref="char:EOLhyphen"/>eſt times, and this preſent Age is
+<pb n="69" facs="tcp:40252:44"/> not exemptech from ſeeing the glory of them.</p>
+               <p>Though many have been too bold to fix upon the time, and have miſ-carried in their Conjectures, aſſerting, the time to be come, for the making good of ſuch and ſuch Promiſes to the Church, and for the utter deſtruction of Antichriſt; yet this we may con<g ref="char:EOLhyphen"/>fidently affirm, this Generation is not excluded from hoping to ſee thoſe things. Now the conſideration that God hath made glorious Promiſes to his Church, and that we are allowed to hope for the Accompliſhment of them in our days, is enough to carry us patiently and chearfully thorow all intervening Difficulties, Nay, had we a promiſe only of many years yet to come, as <hi>Abraham</hi> had of <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> yet it ſhould be a marvellous ſup<g ref="char:EOLhyphen"/>port to us, to think that it ſhould be well with the Church of God, in the Generations to come.</p>
+               <p>Thirdly, We have all our own and the Churches Deliverances, in
+<pb n="70" facs="tcp:40252:45"/> former times. What ever God hath done for any of us, or for his peo<g ref="char:EOLhyphen"/>ple in time of trouble, or for the preſervation of his Church under Per<g ref="char:EOLhyphen"/>ſecution, or Deliverance of it from Captivity, it is all our meat in the Wilderneſs.</p>
+               <p>Fourthly, We have many choiſe and precious Promiſes made to ſuch a ſtate. No Condition hath ſo much of Succour or Comfort promiſed to it, as this.</p>
+               <p>For Support, I'le name but two, which are ſufficient to bear up our hearts, <hi>Iſa.</hi> 43.1.2. <hi>But now thus ſaith the Lord that created thee, oh</hi> Ja<g ref="char:EOLhyphen"/>cob, <hi>and he that formed thee, oh</hi> Iſra<g ref="char:EOLhyphen"/>el, <hi>Fear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot: For</hi> I <hi>have redeemed thee,</hi> I <hi>have called thee by thy Name, thou art mine. When thou paſſeſt tho<g ref="char:EOLhyphen"/>row the waters,</hi> I <hi>will be with thee, and thorow the Rivers, they ſhall not overflow thee; when thou walkeſt tho<g ref="char:EOLhyphen"/>row the fire, thou ſhalt not be burnt, neither ſhall the Flame kindle upon thee: For,</hi> I <hi>am the Lord thy God,</hi> &amp;c.</p>
+               <pb n="71" facs="tcp:40252:45"/>
+               <p>When was this promiſe made? <hi>Now,</hi> ſaith the Lord: If we look to the cloſe of the precedent Chapter, we ſhall find, it was when <hi>Iſrael</hi> was given up to Robbers, and <hi>Jacob</hi> to the Spoil: But wherefore was this per<g ref="char:EOLhyphen"/>haps it was only for tryal? No, it was for their Diſobedience, becauſe they would not walk in his ways, Chap. 42.24. But, poſſibly, this was but ſome light tranſitory Affliction: No, it was accompanied with all Expreſſi<g ref="char:EOLhyphen"/>ons of Dread and Terrour. Here is Anger, yea the fury of anger, and this poured out upon him; here is the Battel, and that made ſtrong a<g ref="char:EOLhyphen"/>gainſt him: Here's fire, yea <hi>Iſrael</hi> ſet on fire, and that round about, com<g ref="char:EOLhyphen"/>paſſed in with trouble on all hands; and, which is worſt of all, he not lay<g ref="char:EOLhyphen"/>ing this to heart. <hi>Iſrael</hi> ſins, and God viſits his ſin, yet he ſins un<g ref="char:EOLhyphen"/>der this V ſitation<g ref="char:punc">▪</g> yet, which is won<g ref="char:EOLhyphen"/>derful, <hi>Iſrael</hi> muſt not fear; God will be with him to ſupport him un<g ref="char:EOLhyphen"/>der theſe troubles. What an Argu<g ref="char:EOLhyphen"/>ment
+<pb n="72" facs="tcp:40252:46"/> is here, for the Faith of Gods people, when they ſuffer for Righ<g ref="char:EOLhyphen"/>teouſneſs?</p>
+               <p>Will God ſuccour thoſe who ſuf<g ref="char:EOLhyphen"/>fer for diſobeying h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? how much more thoſe, who ſuffer for ob<g ref="char:EOLhyphen"/>ſerving it? If he will be with his peo<g ref="char:EOLhyphen"/>ple under Afflictions which he brings upon them, for not walking in his ways; how can he forſake them in troubles, which men bring upon them, for obſerving his Commands? Surely, God will go thorow fire and water with theſe: As he was with the three Children in the fire, and wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Iſrael</hi> in the water; ſo will he be wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his people in all their ſtreights: An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what is fire and water when God is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, with us?</p>
+               <p>We have a promiſe in the New Te<g ref="char:EOLhyphen"/>ſtament, which confirms all this to us, <hi>Heb.</hi> 13.5. <hi>He hath ſaid,</hi> I <hi>wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> never leave thee, nor forſake thee<g ref="char:punc">▪</g>
+                  </hi> The Apoſtle improves this againſt al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the occaſions of Diſtru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, which are either outward wants, or ſuffering<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="73" facs="tcp:40252:46"/> and Perſecutions from men. To the firſt, he ſays, <hi>Be content with ſuch things as you have; for he hath ſaid, I will never leave thee.</hi> What can he be ſaid to want, who is ſure of having God, and knows what it is to injoy him. Againſt the ſecond, He reaſons from the ſame Foundati<g ref="char:EOLhyphen"/>on: So that we may boldly ſay, the the Lord is my Helper. If God be with us, it will not be as a Spectator, but as a Helper; and he may be bold in any trouble, that can be bold to ſay that God is with him. He need not fear what man can do to him, who is aſſured that God will ſtand by him, and ſtrengthen him.</p>
+               <p>Secondly, As God hath promiſed great Supports, ſo he hath provided as great Comforts for his people, in their Suffering low eſtate. See <hi>Mat.</hi> 5.10. <hi>Bleſſed are they which are per<g ref="char:EOLhyphen"/>ſecuted for Righteouſneſs-ſake, for theirs is the Kingdom of Heaven.</hi> They are bleſſed in their Afflictions, under all their Perſecutions; ſo that
+<pb n="74" facs="tcp:40252:47"/> where ever you ſee ſuch a man or wo<g ref="char:EOLhyphen"/>man, how ever miſerable their pre<g ref="char:EOLhyphen"/>ſent Condition may ſeem in the eyes of others, let them not ſeem ſo to you; ſay you, There is a bleſſed man, or a bleſſed woman: <hi>There is the Kingdom of Heaven.</hi> It is not only ſure to them notwithſtanding their Troubles and Sufferings, but they are the more aſſured of it by them. God gives the greateſt and cleareſt Evidences of their Intereſts in Hea<g ref="char:EOLhyphen"/>ven at ſuch a time; God opens the Heavens to them, as he did to <hi>Ste<g ref="char:EOLhyphen"/>phen, Acts</hi> 7.55, 56. Then, if ever, God pours out of the abundance of his Spirit, upon his people. The Apoſtle therefore doth not lay down as a Promiſe, or ſpeak of it as a Fu<g ref="char:EOLhyphen"/>turity, but aſſerts it as a thing pre<g ref="char:EOLhyphen"/>ſent; it is as ſure to be ſo; as if you felt it ſo in this inſtant of time. The like Expreſſion we have, 1 <hi>Pet.</hi> 4.14. <hi>If ye be reproached for the Name of Christ, happy are ye, for the Spirit of glory reſteth on you.</hi> Mark it Chriſti<g ref="char:EOLhyphen"/>ans,
+<pb n="75" facs="tcp:40252:47"/> You ſhall not only have the Spi<g ref="char:EOLhyphen"/>rit of God, but it ſhall be a degree reaching to Glory; it is above the meaſures of Grace and Comfort, commonly attainable in this ſtate of Imperfection: He ſays not, This ſhall come in, or after troubles, but he ſpeaks of it as preſent; if one comes, ſo does the other: <hi>If ye be reproach<g ref="char:EOLhyphen"/>ed, happy are ye,</hi> &amp;c. If reproaches for Chriſt come, then glory comes with them.</p>
+               <p>Nay it comes not to leave you ſud<g ref="char:EOLhyphen"/>denly, it comes to abide with you; if Reproaches and Diſgrace ſtick faſt upon you, the Spirit of Glory will <hi>reſt</hi> upon you alſo.</p>
+               <p>Fifthly, God hath promiſed all the outward glory and proſperity of his Church, to ſuch a Condition. It ſhall be given her in a Wilderneſs, and from thence ſhe ſhall aſcend glorious, <hi>Hoſ.</hi> 2.14, 15. <hi>I will allure her, and bring her into the wilderneſs, and ſpeak comfortably unto her. And I will give her her Vinyards from thence,
+<pb n="76" facs="tcp:40252:48"/> and the valley of</hi> Achor, <hi>for a door of Hope, and ſhe ſhall ſing there as in the days of her youth, as in the day when she came up out of the Land of Egypt.</hi> It is very plain from hence, that God will take a courſe with his people, in the fulfilling his Promiſes to them, much like the way he took to bring them into <hi>Canaan.</hi> He will firſt car<g ref="char:EOLhyphen"/>ry them into a Wilderneſs, and from thence will God give them thoſe great mercies which he hath reſerved for them, <hi>Cant.</hi> 3.6, 7, 8. There we find the Church coming up out of the Wilderneſs, and preſently we find her furniſht with able and expert Guides, and adorned with all that may render it lovely.</p>
+               <p>Now, conſidering all theſe things, Predictions, Experiences, and Pro<g ref="char:EOLhyphen"/>miſes: Have we not Meat to eat in the Wilderneſs, and will it not be ſhameful and inexcuſable to faint, when God hath made ſuch Proviſion to live upon?</p>
+               <p>
+                  <hi>Fifthly,</hi> Conſider, Unbelief will
+<pb n="77" facs="tcp:40252:48"/> be your Affliction, as well as your Sin; it will be a greif to your own ſpirits, as well as to the Lords you will be your own Tormentors, and contribute more to the making your ſelves miſerable, than all your ene<g ref="char:EOLhyphen"/>mies: We have enemies enow to afflict us, let us not afflict our ſelves <hi>Goebal</hi> and <hi>Amon, &amp;c.</hi> let us not be againſt our ſelves, and add affliction to affliction. For it will make all poſſible evils, probable; thoſe which are uncertain, certain; thoſe which are far off, to be near; and thoſe that are future, preſent. Avoid there<g ref="char:EOLhyphen"/>fore Diſtruſt, as the greateſt affliction that can befal thee.</p>
+               <p>
+                  <hi>Sixthly,</hi> Conſider, Your unbelief will not only be your own affliction, but it may be ſo to thoſe who are not involved in the ſame guilt w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th you; you may be the Inſtruments of hin<g ref="char:EOLhyphen"/>dring the good that may come upon the preſent Generation; your unbe<g ref="char:EOLhyphen"/>lief, may hinder many believing ſouls from the Mercy which they are fitted
+<pb n="78" facs="tcp:40252:49"/> for; they may wait a great while longer, becauſe you are not prepared for it; as we ſee, the unbelief of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> kept <hi>Joſuah</hi> and <hi>Caleb,</hi> out of the Land of <hi>Canaan</hi> Forty years. They were ready and prepared to enter in<g ref="char:EOLhyphen"/>to <hi>Canaan,</hi> when they firſt ſpied out the Land: but <hi>Iſraels</hi> unbelief hin<g ref="char:EOLhyphen"/>dred them from entring, and they al<g ref="char:EOLhyphen"/>ſo muſt wait Forty years, till another Generation is made ready. Take heed therefore of that which will af<g ref="char:EOLhyphen"/>flict thee, and make thee an afflicti<g ref="char:EOLhyphen"/>on to many others.</p>
+               <p>
+                  <hi>Seventhly,</hi> Conſider, That Diſtruſt doth of all ſins, deny thy Chriſtiani<g ref="char:EOLhyphen"/>ty. What is a Chriſtian, but a Be<g ref="char:EOLhyphen"/>liever? One that walks by Faith, and not by Sight? Thou art of a contrary frame: How wilt thou prove thy ſelf a Chriſtian, without following Chriſt? And how wilt thou follow Chriſt without believing? Thou mayſt follow Providence, by Senſe; but thou canſt not be ſaid to follow Chriſt, but by Faith<g ref="char:punc">▪</g> Therefore re<g ref="char:EOLhyphen"/>ſolve,
+<pb n="79" facs="tcp:40252:49"/> either to lay by thy Chriſtia<g ref="char:EOLhyphen"/>nity, or caſt out thy unbelief.</p>
+               <p>
+                  <hi>Eighthly,</hi> Make proviſion againſt this ſin, yea, all the Proviſion you can, and you will find all little e<g ref="char:EOLhyphen"/>nough. For Conſider, That you will ſurely meet with Temptations to this, more than to any other. Your way to Heaven lies thorow dif<g ref="char:EOLhyphen"/>ficulties and ſtre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghts; your way lies not among Drunkards, Swearers, or unclean Perſons; you may not meet with <hi>Noah's,</hi> or <hi>Joſeph's</hi> Temptations, but your way lies thorow the VVil<g ref="char:EOLhyphen"/>derneſs, and you will ſurely meet with <hi>Iſraels</hi> Temptations, to diſtruſt God. Thorow many Tribulations you muſt enter into the Kingdom of Heaven. Expect Temptations ſuta<g ref="char:EOLhyphen"/>ble to your Condition; and a thou<g ref="char:EOLhyphen"/>ſand to one, if you find not your heart very ready to cloſe with Temptations of this Nature: for there is nothing more natural to us, than to walk by Senſe and to liſten to the Dictates of Carnal Reaſon. Expectation of evil
+<pb n="80" facs="tcp:40252:50"/> puts us upon making ſutable proviſion for it. And that you may the better ſtand againſt ſuch Temptations when they come. Mind theſe few things,</p>
+               <p>Firſt, Poſſeſs thy ſelf fully of God's Providence. If he take care for the Ravens, how much more for his people.</p>
+               <p>Secondly, Believe firmly that there is not a Providence to thee, but comes thorow the Covenant of Grace.</p>
+               <p>Thirdly, All the Providences of God, do ſerve his Promiſes, and tend to the Accompliſhing of them, though they ſeem otherwiſe.</p>
+               <p>Fourthly, View often the Experi<g ref="char:EOLhyphen"/>ences that thou haſt had of Gods Mer<g ref="char:EOLhyphen"/>cy and Goodneſs, and labour to for<g ref="char:EOLhyphen"/>tifie thy confidence in God from thence, As <hi>David, Pſal.</hi> 23.6. And <hi>Paul,</hi> 2 <hi>Cor.</hi> 1.10. It is a good Ar<g ref="char:EOLhyphen"/>gument, He that hath delivered, will deliver, if we depend upon him, and plead former Mercies with him.</p>
+               <p>Fifthly, Reaſon with thy heart, when thou findeſt is beginning to
+<pb n="81" facs="tcp:40252:50"/> ſink; ſay, Why art thou caſt down, oh my ſoul. Reſolve never to ſuffer thy heart to be unreaſonably diſqui<g ref="char:EOLhyphen"/>eted, and thou ſhalt never find a Rea<g ref="char:EOLhyphen"/>ſon; for a Diſtruſtful Sadneſs, or De<g ref="char:EOLhyphen"/>jection.</p>
+               <p>Sixthly, Be ſure to make God thy Portion, take him for thine Inheri<g ref="char:EOLhyphen"/>tance; account him alone enough for thee. Do not reckon any thing beſides him, needful to make thee happy, but eſteem thy ſelf ſufficiently bleſſed in thy Intereſt in him, and Communion with him. A heart brought to this, will live in a Wil<g ref="char:EOLhyphen"/>derneſs: and, as leſs than this, will not give us comfort, ſo it will not prove us Chriſtians.</p>
+               <p>Seventhly, Lay this upon thy heart, as a duty to be thankful in eve<g ref="char:EOLhyphen"/>ry Condition. Study what thou in<g ref="char:EOLhyphen"/>joyeſt, aſwel as what thou wanteſt; what matter of Thankſgiving, as well as of Petition; and if Prayer and Praiſe go together, ſee what will fol<g ref="char:EOLhyphen"/>low, <hi>Phil.</hi> 4.6, 7. If your wants do
+<pb n="82" facs="tcp:40252:51"/> not ſwallow up your Mercies, but you make your Requeſts known with Thankſgiving as well as Supplicati<g ref="char:EOLhyphen"/>on, the Peace of God which paſſes all underſtanding, ſhall keep your hearts and minds through Jeſus Chriſt. You ſhall have a marvellous calmneſs and ſweetneſs of Spirit, which ſhall keep your minds quiet and ſtable, in the midſt of all your troubles.</p>
+            </div>
+            <div n="3" type="section">
+               <head>
+                  <hi>Uſe</hi> 3.</head>
+               <p>The third Uſe of this Point is for Direction, to teach us how to carry our ſelves whenſoever God brings us into a Wilderneſs.</p>
+               <p>
+                  <hi>Firſt,</hi> Labour to ſecure God to you be ſure make him yours; renew your choice of him, and perfect your reſolutions of cleaving to him; i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you be clear in the juſtifying Acts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fa th, the Comforting Acts will be more eaſie and rational. It is ſad be<g ref="char:EOLhyphen"/>ing without God in a Wilderneſs
+<pb n="83" facs="tcp:40252:51"/> doubts about thy Intereſt in him, can never meet thee more unſeaſonably than now. <hi>Moſes</hi> underſtood this ſo well, that he would not ſtir out of the Wilderneſs without God, <hi>Exod.</hi> 33.15. He knew it was better being in a Wilderneſs with God, than in <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> without him: And if <hi>Canaan</hi> that flowed with Milk and Hony be ſo uncomfortable without God, what then will a Wilderneſs be, which is bar<g ref="char:EOLhyphen"/>ren and deſtitute of all other Com<g ref="char:EOLhyphen"/>forts.</p>
+               <p>
+                  <hi>Secondly,</hi> Have an eye conſtantly upon God, to direct your way. The Children of <hi>Iſrael</hi> were to have an eye upon the Cloud in the Wilder<g ref="char:EOLhyphen"/>neſs, and to move as that moved, and to ſtand ſtill, when that ſtood ſtill. Acquaint your ſelves with the Word of God, this will give Light to your Paths, in the darkeſt times. Labour to know your Duty, and be found in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, ſo ſhall the way of Providence be comfortable to you, though you un<g ref="char:EOLhyphen"/>derſtand it not at preſent.</p>
+               <pb n="84" facs="tcp:40252:52"/>
+               <p>
+                  <hi>Thirdly,</hi> Carry your Bread in your hands with you. The <hi>Iſraelites</hi> took their Dough in their Kneading-Troughs with them, when they went out of <hi>Egypt, Exod.</hi> 12.34. But this was ſoon ſpent, but God gave them Bread at the Red-Sea, which was for them to ſeed upon during their Travels, <hi>Pſal.</hi> 74.14. This Bread which is your experience of Gods Mercy and Truth, you muſt be ſure to keep with you, elſe you will be apt to faint. And beſide this, Take the Bread of Sincerity and Truth, 1 <hi>Cor.</hi> 5.8. this Bread will not only ſuſtain, but comfort your hearts; it will be a continual Feaſt, <hi>Prov.</hi> 15.15. By a merry heart is meant here, an upright honeſt heart; for none beſide this can be truly merry, and this ought always to be merry and joy<g ref="char:EOLhyphen"/>ful.</p>
+               <p>
+                  <hi>Fourthly,</hi> Beware of Preſumption as well as Diſtruſt; As you muſt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be diſcouraged becauſe you can ſeen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way in it; ſo you muſt not preſume
+<pb n="85" facs="tcp:40252:52"/> to make your own way out of it.</p>
+               <p>If God bring you into a Wilder<g ref="char:EOLhyphen"/>neſs, let him alone to bring you out; only follow him, go his way, wait his time. Take heed of preſuming upon your own ſtrength, and running before the Lord: It coſt <hi>Iſrael</hi> dear for preſuming to go up without war<g ref="char:EOLhyphen"/>rant, out of the Wilderneſs againſt the <hi>Canaanites</hi> in the Mountains, <hi>Num.</hi> 14.40, 41, 42, 43, 44, 45.</p>
+               <p>
+                  <hi>Fifthly,</hi> Look upon the Mercy you deſire and wait for, not thorow the Providences of God, but thorow the Promiſes, for they may repreſent it as a thing afar off, when the other will tell you it is near. As for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all of Antichriſt, we would think it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar off, if we look upon his Pomp, Power, Intereſts, and Councels; but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et us look upon the Word of God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd it will tell you, he ſhall fall in an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, ſuddenly, when he is not a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are of it.</p>
+               <p>
+                  <hi>Sixtly,</hi> Study Faith and Patience, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e very Exerciſe of theſe are of great
+<pb n="86" facs="tcp:40252:53"/> advantage to you, if God have no other deſign but to prove and im<g ref="char:EOLhyphen"/>prove theſe, it is worth your going into the Wilderneſs, 1 <hi>Pet.</hi> 1.7. <hi>It is a precious thing, to have our Faith tri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, though it be by fire,</hi> ſays the Apoſtle. But why is it ſo? Becauſe God intends highly to honour the Faith of his people at laſt: He'le praiſe it, yea, which is more, he'le honour it; nay, he'le put the higheſt honour upon it that can be; for he'le put a glory upon it. When God ſhall call the whole world together, he will then tell the ſtory of your lives, before men and Angels; and that which He will inſiſt upon, to magnifie and ex<g ref="char:EOLhyphen"/>tol in your lives, ſhall be your Faith. Lo, here is one that followed me in a Wilderneſs, in a Land that was not ſown, that would believe my word againſt all that Men or Devils, could ſuggeſt to the contrary; nay, all that I could <hi>do,</hi> could not make him di<g ref="char:EOLhyphen"/>ſtruſt what I <hi>ſaid.</hi> Thus will God honour Faith, when it is found in a
+<pb n="87" facs="tcp:40252:53"/> VVilderneſs. I might preſs you to ſtudy and exerciſe this, from ſeveral Conſiderations. But Ile but add two,</p>
+               <p>Firſt, God will take it kindly, yea, exceeding kindly, if thou followeſt him believingly in a VVilderneſs. I do not know any thing that is more acceptable to him, than this: See this in <hi>Iſrael, Jer.</hi> 2.2. I <hi>remember the kindneſs of thy youth, the Love of thine Eſpouſals when thou wenteſt after me in a Wilderneſs, in a Land that was not ſown.</hi> The Lord took this ſo kindly, that he is mindful of it many Generations afterwards; yea, he would not forget this at a time, when he was highly provoked, and was about to remove them out of their Land for their Iniquities. Shew kindneſs to God this way, and thou haſt ingaged him to be kind to thee, as long as thou liveſt; nay, it may be remembred to thy Childrens Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>Secondly, You will not only find
+<pb n="88" facs="tcp:40252:54"/> God kind to you, but in ſo doing you will be kind to your own ſouls. You will find a believing frame of ſpi<g ref="char:EOLhyphen"/>rit exceeding comfortable: Faith will fetch in thoſe comforts which you want, and put you into the poſſeſſion of thoſe Mercies which you wait for. It will make your Comforts real, and your wants but ſeeming: Mark the Expreſſion of the Apoſtle, 2 <hi>Cor.</hi> 6.10. <hi>As ſorrowful, yet always rejoy<g ref="char:EOLhyphen"/>cing; as poor, yet making many rich; as having nothing, yet poſſeſſing all things.</hi>
+               </p>
+               <p>Our wants and our troubles, ſeem to be great and many, but they are but Shadows and Phantaſms; they exiſt moſt in opinion of others: but our Comforts and Enjoyments are ſubſtantial. Vvhile we ſeem to be ſorrowful, we are alway joyful, and while we ſeem to have nothing, we do really poſſeſs all things, He injoys God in Chriſt who is all in all, and in Patience he poſſeſſeth his own ſoul; and he is content with thoſe things
+<pb n="89" facs="tcp:40252:54"/> which he hath, and ſo hath as much comfort, as if he had the actual injoy<g ref="char:EOLhyphen"/>ment of all the world. A Believer's injoyments under wants, are more real than an Unbeliever's are in the midſt of all his plenty and fulneſs; for an unbeliever's comforts and in<g ref="char:EOLhyphen"/>joyments are but ſeeming; he is as if he had al things, but his wants are real, he poſſeſſeth nothing. There<g ref="char:EOLhyphen"/>fore walk by Faith, and you will have more comfort in your ſtreights, than other men have in their greateſt a<g ref="char:EOLhyphen"/>bundance.</p>
+               <p>And as you muſt ſtudy Faith, ſo be ſure to let Patience have her perfect work, <hi>Jam,</hi> 1.4. for if any thing will perfect you, this wil do it; Patience nouriſhes and cheriſhes every grace in the ſoul, and raiſes them to the greateſt degrees of perfection attaina<g ref="char:EOLhyphen"/>ble here. God often times does that by ſtreights and troubles, which would not be effected by all our Li<g ref="char:EOLhyphen"/>berty and Proſperity, and all other means.</p>
+               <pb n="90" facs="tcp:40252:55"/>
+               <p>
+                  <hi>Seventhly,</hi> Draw no Concluſion from any Providence, till thou haſt lookt over former times, and com<g ref="char:EOLhyphen"/>pared it with things which are paſt, whether it be Publick or Private, whe<g ref="char:EOLhyphen"/>ther it reſpects the Church of God, or thine own Perſon or Family. Sup<g ref="char:EOLhyphen"/>poſe thou ſhouldeſt ſee the Church of God in great affliction, yet look back and ſee how it was when <hi>Moſes</hi> was born: Hadſt thou lived in thoſe days, would not thy heart have ſunk with fear much more? There was a deſign to root out <hi>Iſrael.</hi> Look to the preſent Generation, they were Slaves to the <hi>Egyptians;</hi> they were wearied with making Bricks, and in the next Generation, their Names were like to be blotted out. The Male-Chil<g ref="char:EOLhyphen"/>dren muſt be all kill'd, and becauſe the Midwives would not do it, the com<g ref="char:EOLhyphen"/>mon people muſt be Commiſſioned for that purpoſe, <hi>Exod.</hi> 1.22. Wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fears and cares muſt they needs have whoſe Children lay at the mercy o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every Villain, who might at their plea<g ref="char:EOLunhyphen"/>ſure
+<pb n="91" facs="tcp:40252:55"/> ſnatch them from their Mothers Breaſts, and daſh their Brains out a<g ref="char:EOLhyphen"/>gainſt the ſtones: Here was nothing but Death to be expected for their little ones, and miſerable ſlavery for themſelves. Here was no hope of Freedom from hence; a Baniſhment, though it had been into a howling Wilderneſs, would have been count<g ref="char:EOLhyphen"/>ed a Mercy. Theſe were troubles indeed, yet God delivered his people from theſe; though the Buſh did burn, yet it was not conſumed.</p>
+               <p>Hadſt thou lived in <hi>Jezabels</hi> days, What wouldſt thou have ſaid con<g ref="char:EOLhyphen"/>cerning the Lord's Prophet, when ſhe hunted after <hi>Elijah's</hi> life? Surely they will be all cut off. When the Pro<g ref="char:EOLhyphen"/>phets were to be found in Caves only, (1 <hi>Kings</hi> 18.13.) hid to ſecure their lives; yet God preſerved them, and fed them with Bread and Water. Or hadſt thou lived in the days of wicked <hi>Haman,</hi> when the Decree was gone forth againſt all the people of God, and the time to deſtroy and to
+<pb n="92" facs="tcp:40252:56"/> kill them, was appointed and fixt by an unalterable Decree; and theſe poor people had great and potent E<g ref="char:EOLhyphen"/>nemies, who waited for the Execu<g ref="char:EOLhyphen"/>tion of it, who thirſted for the blood of theſe poor <hi>Jews:</hi> Wouldſt thou not now, have given up all for loſt? Yet, then God ſteps in, and by won<g ref="char:EOLhyphen"/>derful Providences delivers them, and brings their Enemies in their room.</p>
+               <p>Or for thy own particular; wer't thou ever brought lower than <hi>Joſeph</hi> was in <hi>Egypt?</hi> That from a Slave was made a Priſoner, and had, beſide h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Irons, the weight of a great mans Diſpleaſure laid upon him, and this in a ſtrange Country, where he had none to pitty, or to help him? Yet ſee what Iſſue God gave to his trou<g ref="char:EOLhyphen"/>bles.</p>
+               <p>Or was it ever ſo bad with thee as with <hi>David</hi> who was baniſht his own Country, and in a ſtrange Land; is at once ſtript of all he hath; his wives, Children, Goods at once taken a<g ref="char:EOLhyphen"/>way, and that which added to his Af<g ref="char:EOLhyphen"/>fliction,
+<pb n="93" facs="tcp:40252:56"/> none of the people pitty, him, but loaded him with their Curſes and Threat<g ref="char:EOLhyphen"/>nings; they talked of ſtoning him, 1 <hi>Sam.</hi> 30.6. <hi>But</hi> David <hi>incouraged himſelf, in the Lord his God.</hi>
+               </p>
+               <p>What ever thy Condition be, upon in<g ref="char:EOLhyphen"/>quiry thou wilt ſee, it is no other than what the people of God have paſſed thorow here<g ref="char:EOLhyphen"/>tofore, and the conſideration that others have paſt thorow it before, is matter of hope to thee. He that hath delivered, can ſtill deliver, his Arm is not ſhortened. Nay, ſhouldeſt thou find any thing that ſhould make thy Condition more ſad and diſmal, than any that thou canſt think upon, yet it will not juſtifie thy Diſtruſts; for doubtleſs <hi>Iſrael</hi> had no Precedents of any people deli<g ref="char:EOLhyphen"/>vered from ſuch a Bondage, as <hi>Egypt,</hi> or provided for in ſuch a Wilderneſs as they were to paſs thorow; yet their Diſtruſt was a Provocation. But if thy Condition could be ſingular from all that ever were in the world before thee, then to depend upon God were an honour to your Faith; whereas De<g ref="char:EOLhyphen"/>pendance in this cauſe where we have Prece<g ref="char:EOLhyphen"/>dents, are but the nobler Exerciſes of Rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. Believe once for thy Juſtification, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou mayſt reaſon out thy Comfort and Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection; for this follows undeniably, <hi>Rom.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.32. <hi>If God hath given thee Chriſt, how
+<pb n="94" facs="tcp:40252:57"/> ſhall he not with him, freely give thee all things.</hi> When thou haſt cloſed with Chriſt, and intereſted thy ſelf in God by Faith, it is the work of Reaſon to ſhake off all doubts and fears. Thus did <hi>David, Pſal.</hi> 42.5.11. reaſon with his heart againſt D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction.</p>
+               <p>Ask but a Reaſon of thy heart for being troubled, and thy trouble will vaniſh; for thou haſt no more reaſon for thy fears, and diſquiets than a wicked man hath for his hopes and joys; they both ariſe from want of conſideration, <hi>Pſal.</hi> 116.11. <hi>I ſaid in my haſte, all men are lyars.</hi> A Chriſtians fears ariſe through haſte, and a due and right exerciſe of Reaſon will quell them all, becauſe there is no Reaſon for them; they cannot indure a ſtrict Examination: And how much better is it to have fears, that are groundleſs, and hopes that are reaſonable (as the Godly have,) than groundleſs hopes, and reaſonable well grounded fears, as every wicked man hath.</p>
+               <p>
+                  <hi>Eighthly,</hi> Do not onely labour againſt Unbelief and Diſtruſt, but ſtrive for the higheſt acts of Faith, endeavour not only to hope, but to rejoyce; not only to be pati<g ref="char:EOLhyphen"/>ent, but thankful; think it not enough that thou doſt eſcape thoſe Rocks upon which the people of God, have been ready to ſtumble in thy Condition; but ſtrive to imitat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="95" facs="tcp:40252:57"/> thoſe that have excelled, and done worthily in the like caſe: the 11th. to the <hi>Hebrews,</hi> will afford you many glorious Examples. Remember that God expects more from you, then he did from <hi>Iſrael</hi> in the Wilderneſs, he calls you to higher and more noble duties, becauſe he hath revealed more Grace, and given greater helps to you: Two things eſpe<g ref="char:EOLhyphen"/>cially God expects from you more than he did from them.</p>
+               <p>
+                  <hi>Firſt,</hi> All patience, and long-ſuffering with joyfulneſs, <hi>Col.</hi> 1.11.</p>
+               <p>
+                  <hi>Secondly,</hi> To give thanks in every thing, 1 <hi>Theſ.</hi> 5.18. Theſe are difficult, yet theſe are your duties, eſpecially who live under the Goſpel. It was well if <hi>Iſrael</hi> could bear ſome of Gods Providences, for them to hold up under them without murmuring, was much; but God requires of you not only to ſubmit, but to be thankful, not only to bear Affliction patiently, but joyfully.</p>
+               <p>Look not therefore on your Afflictions and Troubles, as a way to Heaven, but look for Heaven in them; let your expectati<g ref="char:EOLhyphen"/>ons of Glory increaſe with your increaſe of Troubles in the world; look for, labour for, and expreſs a Spirit of Glory reſting upon your ſpirits.</p>
+               <p>To Conclude, Stand ſtill and conſider, and conſidering admire the goodneſs of
+<pb n="96" facs="tcp:40252:58"/> God, who hath ſo provided for thee in this world, that thou mayſt be Afflicted and Per<g ref="char:EOLhyphen"/>ſecuted, but thou canſt not be miſerable; there is no Condition in which thou haſt not cauſe of rejoycing: If thou art without Comfort, it is thine own fault, God hath made proviſion that thy joy may be full. Thou canſt not fall ſo low, but thou mayſt hold faſt on the Lord who is able to raiſe thee up; and whatever thy Condition be, it is not only no Preſumption, but it is thy Duty to hope in him, he hath not only allowed, but Commanded thee to hope in him: And believe Chriſtian, a commanded confidence cannot miſcarry; ſuch a hope will not make thee aſhamed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40252:58"/>
+         </div>
+      </body>
+   </text>
+</TEI>
